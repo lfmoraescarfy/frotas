@@ -17,6 +17,7 @@ import { NgbDropdownModule, NgbNavModule, NgbPaginationModule } from "@ng-bootst
 import { AgendamentoGridComponent } from "./listagem/components/agendamento-grid/agendamento-grid.component";
 import { AgendamentoFilterComponent } from "./listagem/components/agendamento-filter/agendamento-filter.component";
 import { AgendamentoTabsComponent } from "./listagem/components/agendamento-tabs/agendamento-tabs.component";
+import { TelefonePipe } from "src/app/shared/pipes/telefone.pipe";
 
 @NgModule({
   declarations: [

@@ -14,13 +14,9 @@ import { defineElement } from '@lordicon/element';
 import lottie from 'lottie-web';
 import { PagesRoutingModule } from "./pages-routing.module";
 import { SharedModule } from "../shared/shared.module";
-import { WidgetModule } from '../shared/widget/widget.module';
-import { DashboardsModule } from "./dashboards/dashboards.module";
-import { ToastsContainer } from './dashboards/dashboard/components/toasts-container/toasts-container.component';
 
 @NgModule({
   declarations: [
-    ToastsContainer
   ],
   imports: [
     CommonModule,
@@ -34,10 +30,8 @@ import { ToastsContainer } from './dashboards/dashboard/components/toasts-contai
     SimplebarAngularModule,
     PagesRoutingModule,
     SharedModule,
-    WidgetModule,
     SlickCarouselModule,
-    LightboxModule,
-    DashboardsModule
+    LightboxModule
   ],
   schemas: [CUSTOM_ELEMENTS_SCHEMA]
 })
