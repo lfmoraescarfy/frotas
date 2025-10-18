@@ -1,0 +1,29 @@
+{
+    "localhost": {
+        "apis": {
+            "Authentication": "https://carfy-authentication-api.carfy.com.br/api",
+            "OnBoarding": "https://carfy-mf-onboarding-api.carfy.com.br/api",
+            "Cep": "https://viacep.com.br/ws/",
+            "Oficinas": "https://carfy-om-workshops-api.carfy.com.br/api",
+            "Veiculos": "https://carfy-adm-vehicles-api.carfy.com.br/api"
+        }
+    },
+    "frotas-hom.carfy.com.br": {
+        "apis": {
+            "Authentication": "https://carfy-authentication-api.carfy.com.br/api",
+            "OnBoarding": "https://carfy-mf-onboarding-api.carfy.com.br/api",
+            "Cep": "https://viacep.com.br/ws/",
+            "Oficinas": "https://carfy-om-workshops-api.carfy.com.br/api",
+            "Veiculos": "https://carfy-adm-vehicles-api.carfy.com.br/api"
+        }
+    },
+    "frotas.carfy.com.br": {
+        "apis": {
+            "Authentication": "https://carfy-authentication-api.carfy.com.br/api",
+            "OnBoarding": "https://carfy-mf-onboarding-api.carfy.com.br/api",
+            "Cep": "https://viacep.com.br/ws/",
+            "Oficinas": "https://carfy-om-workshops-api.carfy.com.br/api",
+            "Veiculos": "https://carfy-adm-vehicles-api.carfy.com.br/api"
+        }
+    }
+}

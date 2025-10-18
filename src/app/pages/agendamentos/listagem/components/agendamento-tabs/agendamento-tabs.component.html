@@ -1,0 +1,25 @@
+<div>
+    <!-- Nav tabs -->
+    <ul ngbNav #nav="ngbNav" [activeId]="1" (navChange)="onNavChange($event)" class="nav nav-tabs nav-tabs-custom nav-success mb-3">
+    <li [ngbNavItem]="1">
+        <a ngbNavLink>
+        <i class="ri-time-line me-1 align-bottom"></i> Em Aberto
+        </a>
+    </li>
+    <li [ngbNavItem]="2">
+        <a ngbNavLink>
+        <i class="ri-checkbox-circle-line me-1 align-bottom"></i> Compareceu
+        </a>
+    </li>
+    <li [ngbNavItem]="3">
+        <a ngbNavLink>
+        <i class="ri-close-circle-line me-1 align-bottom"></i> Não Compareceu
+        </a>
+    </li>
+    </ul>
+
+    <!-- Tab panes -->
+    <div class="tab-content text-muted">
+        <div [ngbNavOutlet]="nav"></div>
+    </div>
+</div>

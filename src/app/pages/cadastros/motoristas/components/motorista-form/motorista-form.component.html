@@ -1,0 +1,62 @@
+
+<div class="modal-header bg-light p-3">
+    <h5 class="modal-title" id="exampleModalLabel">{{ title }}</h5>
+    <button 
+        type="button" 
+        class="btn-close" 
+        data-bs-dismiss="modal" 
+        aria-label="Close"
+        id="close-modal" 
+        (click)="modal.dismiss('Cross click')">
+    </button>
+</div>
+<form (ngSubmit)="salvar()" [formGroup]="formMotorista" class="tablelist-form needs-validation" autocomplete="off" novalidate>
+    <div class="modal-body">
+        <input type="hidden" name="id" value="" formControlName="id" />
+        <div class="row g-3">
+            <div class="col-lg-4">
+                <div class="form-floating">
+                    <input type="text" class="form-control" id="cpf" formControlName="cpf" mask="CPF_CNPJ" maxlength="14"
+                        [ngClass]="{'is-invalid': submitted && form['cpf'].invalid}">
+                    <label for="cpf">CPF</label>
+                </div>
+            </div>
+            <div class="col-lg-8">
+                <div class="form-floating">
+                    <input type="text" class="form-control" id="nome" formControlName="nome"
+                        [ngClass]="{'is-invalid': submitted && form['nome'].invalid}">
+                    <label for="nome">Nome</label>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="form-floating">
+                    <input type="text" class="form-control" id="cnh" formControlName="cnh" [maxlength]="11"
+                        [ngClass]="{'is-invalid': submitted && form['cnh'].invalid}">
+                    <label for="email">CNH</label>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="form-floating">
+                    <input type="text" class="form-control" id="contato" formControlName="contato" mask="(00) 00000-0000"
+                        [ngClass]="{'is-invalid': submitted && form['contato'].invalid}">
+                    <label for="email">Contato</label>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal-footer">
+        <div class="hstack gap-2 justify-content-end">
+            <button 
+                type="button" 
+                class="btn btn-light" 
+                data-bs-dismiss="modal"
+                (click)="modal.dismiss()">Cancelar
+            </button>
+            <button 
+                type="submit" 
+                class="btn btn-success" 
+                id="add-btn">Salvar
+            </button>
+        </div>
+    </div>
+</form>

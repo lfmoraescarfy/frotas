@@ -1,0 +1,53 @@
+<form [formGroup]="formDados">
+    <input type="hidden" id="cnpj" formControlName="cnpj">
+    <div class="row g-2">
+        <div class="col-lg-6">
+            <div class="form-floating">
+                <input type="text" class="form-control" id="nome" formControlName="nome"
+                    [ngClass]="{'is-invalid': submitted && form['nome'].invalid}">
+                <label for="nome">Nome</label>
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <div class="form-floating">
+                <input type="text" class="form-control" id="razaoSocial" formControlName="razaoSocial"
+                    [ngClass]="{'is-invalid': submitted && form['razaoSocial'].invalid}">
+                <label for="razaoSocial">Razão Social</label>
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <div class="form-floating">
+                <input type="email" class="form-control" id="email" formControlName="email"
+                    [ngClass]="{'is-invalid': submitted && form['email'].invalid}">
+                <label for="email">Email</label>
+            </div>
+        </div>
+        <div class="col-lg-3">
+            <div class="form-floating">
+                <input type="text" class="form-control" id="telefone" formControlName="telefone"  mask="(00) 00000-0000"
+                    [ngClass]="{'is-invalid': submitted && form['telefone'].invalid}">
+                <label for="telefone">Telefone</label>
+            </div>
+        </div>
+        <div class="col-lg-3">
+            <div class="form-floating">
+                <input type="text" class="form-control" id="whatsApp" formControlName="whatsApp"  mask="(00) 00000-0000"
+                    [ngClass]="{'is-invalid': submitted && form['whatsApp'].invalid}">
+                <label for="whatsApp">WhatsApp</label>
+            </div>
+        </div>
+    </div>
+</form>
+<br>
+<app-endereco
+    [endereco]="endereco"
+    (onChangeEndereco)="setEndereco($event)">
+</app-endereco>
+<br>
+<div class="row g-2">
+    <div class="col-lg-12">
+        <div class="text-end">
+            <button type="button" class="btn btn-primary" (click)="salvar()">Salvar</button>
+        </div>
+    </div>
+</div>

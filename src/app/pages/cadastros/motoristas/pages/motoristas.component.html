@@ -1,0 +1,23 @@
+<app-breadcrumbs title="Motoristas" [breadcrumbItems]="breadCrumbItems"></app-breadcrumbs>
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="card">
+            <div class="card-header border-bottom-dashed">
+                <app-motorista-header (addMotorista)="addMotorista($event)"></app-motorista-header>
+            </div>
+            <div class="card-body border-bottom-dashed border-bottom">
+                <app-motorista-filter
+                    (setAllMotoristas)="setAllMotoristas($event)"
+                    (setMotoristas)="setMotoristas($event)"
+                ></app-motorista-filter>
+            </div>
+            <div class="card-body">
+                <app-motorista-grid 
+                    [motoristas]="motoristas"
+                    [allMotoristas]="allMotoristas"
+                ></app-motorista-grid>
+            </div>
+        </div>
+    </div>
+</div>

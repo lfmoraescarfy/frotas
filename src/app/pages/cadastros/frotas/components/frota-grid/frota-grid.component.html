@@ -1,0 +1,98 @@
+<div>
+    <div class="table-responsive table-card mb-1">
+        <table class="table">
+            <thead class="table-light text-muted">
+                <tr>
+                    <th class="sort" (click)="onSort('placa')">Placa</th>
+                    <th></th>
+                    <th class="sort" (click)="onSort('anoFabricacao')">Ano</th>
+                    <th class="sort" (click)="onSort('cor')">Cor</th>
+                    <th>Ações</th>
+                </tr>
+            </thead>
+            <tbody>
+                @for(data of veiculos; track $index){
+                <tr id="c_{{data.id}}">
+                    <td>
+                        <ngb-highlight [result]="data.placa">
+                            {{ data.placa }}
+                        </ngb-highlight>
+                    </td>
+                    <td>
+                        <span>
+                            <div class="d-flex align-items-center">
+                                <div class="flex-shrink-0 me-3">
+                                    <div class="avatar-sm bg-light rounded p-1">
+                                        <img [src]="getLogo(data.marca)" alt=""
+                                        class="img-fluid d-block">
+                                    </div>
+                                </div>
+                                <div class="flex-grow-1">
+                                    <h5 class="fs-14 mb-1">
+                                        <a routerLink=""
+                                            class="text-body">{{data.modelo}}</a>
+                                    </h5>
+                                    <p class="text-muted mb-0">
+                                        <span class="fw-medium">{{data.marca}}</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </span>
+                    </td>
+                    <td>
+                        <span>
+                            <div class="d-flex align-items-center">
+                                <div class="flex-grow-1">
+                                    <h5 class="fs-14 mb-1">
+                                        <a routerLink=""
+                                            class="text-body">{{data.anoFabricacao}}</a>
+                                    </h5>
+                                    <p class="text-muted mb-0">
+                                        <span class="fw-medium">{{data.anoModelo}}</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </span>
+                    </td>
+                    <td>
+                        <ngb-highlight [result]="data.cor">
+                            {{ data.cor }}
+                        </ngb-highlight>
+                    </td>
+                    <td>
+                        <ul class="list-inline hstack gap-2 mb-0">
+                            <li class="list-inline-item me-0 grid-action" ngbTooltip="Remover" placement="top">
+                                <a class="text-danger d-inline-block remove-item-btn" (click)="delete(data)">
+                                    <i class="ri-delete-bin-5-fill fs-16"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    </div>
+    <div class="row justify-content-md-between align-items-md-center">
+        <div class="col col-sm-6">
+            <div class="dataTables_info mb-2" id="tickets-table_info" role="status" aria-live="polite" *ngIf="allVeiculos.length > 0">
+                Exibindo
+                {{paginationService.startIndex}} a
+                {{paginationService.endIndex}} de {{allVeiculos.length}}
+                registros
+            </div>
+        </div>
+        <!-- Pagination -->
+        <div class="col col-sm-6">
+            <div class="text-sm-right float-end listjs-pagination">
+                <ngb-pagination 
+                    [collectionSize]="allVeiculos.length" 
+                    [(page)]="paginationService.page" 
+                    (pageChange)="changePage()"
+                    [pageSize]="paginationService.pageSize">
+                </ngb-pagination>
+            </div>
+        </div>
+        <!-- End Pagination -->
+    </div>
+</div>

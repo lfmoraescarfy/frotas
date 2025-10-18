@@ -1,0 +1,65 @@
+<div class="position-relative mx-n4 mt-n4">
+    <div class="profile-wid-bg profile-setting-img">
+        <img src="assets/images/auth-one-bg.jpg" class="profile-wid-img" alt="">
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-xxl-3">
+        <div class="card mt-n5">
+            <div class="card-body p-4">
+                <div class="text-center">
+                    <div class="profile-user position-relative d-inline-block mx-auto  mb-4">
+                        <img src="{{getPicture()}}"
+                            class="rounded-circle avatar-xl img-thumbnail user-profile-image" alt="user-profile-image">
+                        <div class="avatar-xs p-0 rounded-circle profile-photo-edit">
+                            <input id="profile-img-file-input" type="file" class="profile-img-file-input" (change)="fotoAlterada($event)">
+                            <label for="profile-img-file-input" class="profile-photo-edit avatar-xs">
+                                <span class="avatar-title rounded-circle bg-light text-body">
+                                    <i class="ri-camera-fill"></i>
+                                </span>
+                            </label>
+                        </div>
+                    </div>
+                    <h5 class="fs-17 mb-1">{{getNome()}}</h5>
+                    <p class="text-muted mb-0">{{getPerfil()}}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xxl-9">
+        <div class="card mt-xxl-n5">
+            <div class="card-header">
+                <ul ngbNav #customNav="ngbNav" [activeId]="1"
+                    class="nav nav-tabs-custom rounded card-header-tabs border-bottom-0" role="tablist">
+                    <li [ngbNavItem]="1" class="nav-item">
+                        <a ngbNavLink class="nav-link" data-bs-toggle="tab" role="tab">
+                            <i class="fas fa-home"></i>
+                            Dados Pessoais
+                        </a>
+                        <ng-template ngbNavContent>
+                            <app-perfil-dados-pessoais 
+                                [usuario]="usuario"
+                                [fotoPerfil]="fotoPerfil">
+                            </app-perfil-dados-pessoais>
+                        </ng-template>
+                    </li>
+                    <li [ngbNavItem]="2" class="nav-item">
+                        <a ngbNavLink class="nav-link" data-bs-toggle="tab" role="tab">
+                            <i class="far fa-user"></i>
+                            Alterar Senha
+                        </a>
+                        <ng-template ngbNavContent>
+                            <app-perfil-senha [cpf]="getCpf()"></app-perfil-senha>
+                        </ng-template>
+                    </li>
+                </ul>
+            </div>
+            <div class="card-body p-4">
+                <div class="tab-content">
+                    <div [ngbNavOutlet]="customNav"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,40 @@
+<div class="card">
+    <div class="card-body">
+        <div class="row g-3">
+            <div class="col-xxl-5 col-sm-6">
+                <div class="search-box">
+                    <input type="text" class="form-control search bg-light border-light" id="searchCompany"
+                        placeholder="Search for company, industry type..." [(ngModel)]="searchTerm" (ngModelChange)="performSearch()">
+                    <i class="ri-search-line search-icon"></i>
+                </div>
+            </div>
+            <!--end col-->
+            <div class="col-xxl-3 col-sm-6">
+                <input type="text" class="form-control bg-light border-light" id="datepicker" mwlFlatpickr
+                    [convertModelValue]="true" data-date-format="d M, Y" placeholder="Select date">
+            </div>
+            <!--end col-->
+            <div class="col-xxl-2 col-sm-4">
+                <div class="input-light">
+                    <select class="form-control" data-choices data-choices-search-false
+                        name="choices-single-default" id="idType" >
+                        <option value="" selected>All</option>
+                        <option value="Full Time">Full Time</option>
+                        <option value="Part Time">Part Time</option>
+                        <option value="Internship">Internship</option>
+                        <option value="Freelance">Freelance</option>
+                    </select>
+                </div>
+            </div>
+            <!--end col-->
+
+            <div class="col-xxl-2 col-sm-4">
+                <button type="button" class="btn btn-secondary w-100" onclick="filterData();">
+                    <i class="ri-equalizer-fill me-1 align-bottom"></i> Filters
+                </button>
+            </div>
+            <!--end col-->
+        </div>
+        <!--end row-->
+    </div>
+</div>

@@ -1,0 +1,132 @@
+{
+  "HEADER": {
+    "MORE": {
+      "TEXT": "More"
+    }
+  },
+  "MENUITEMS": {
+    "MENU": {
+      "TEXT": ""
+    },
+    "DASHBOARD": {
+      "TEXT": "Indicadores"
+    },
+    "FROTA": {
+      "TEXT": "Frota"
+    },
+    "MANUTENCAO": {
+      "TEXT": "Manutenção"
+    },
+    "CADASTROS": {
+      "TEXT": "Cadastros",
+      "LIST": {
+        "USUARIOS": "Usuários",
+        "VEICULOS": "Veículos",
+        "MOTORISTAS": "Motoristas",
+        "MAINCALENDAR": "Main Calendar",
+        "MONTHGRID": "Month Grid",
+        "CHAT": "Chat",
+        "EMAIL": "Email",
+        "MAILBOX": "Mailbox",
+        "MAILTEMPLATES": "Email Templates",
+        "BASICACTION": "Basic Action",
+        "ECOMMERCEACTION": "Ecommerce Action",
+        "ECOMMERCE": "Ecommerce",
+        "PRODUCTS": "Products",
+        "PRODUCTDETAILS": "Product Details",
+        "CREATEPRODUCT": "Create Product",
+        "ORDERS": "Orders",
+        "ORDERDETAILS": "Order Details",
+        "CUSTOMERS": "Customers",
+        "SHOPPINGCART": "Shopping Cart",
+        "CHECKOUT": "Checkout",
+        "SELLERS": "Sellers",
+        "SELLERDETAILS": "Seller Details",
+        "PROJECTS": "Projects",
+        "LIST": "List",
+        "OVERVIEW": "Overview",
+        "CREATEPROJECT": "Create Project",
+        "TASK": "Tasks",
+        "KANBANBOARD": "Kanban Board",
+        "LISTVIEW": "List View",
+        "TASKDETAILS": "Task Details",
+        "CRM": "CRM",
+        "CONTACTS": "Contacts",
+        "COMPANIES": "Companies",
+        "DEALS": "Deals",
+        "LEADS": "Leads",
+        "CRYPTO": "Crypto",
+        "TRANSACTIONS": "Transactions",
+        "BUY&SELL": "Buy & Sell",
+        "MYWALLET": "My Wallet",
+        "ICOLIST": "ICO List",
+        "KYCAPPLICATION": "KYC Application",
+        "INVOICES": "Invoices",
+        "DETAILS": "Details",
+        "CREATEINVOICE": "Create Invoice",
+        "SUPPORTTICKETS": "Support Tickets",
+        "TICKETDETAILS": "Ticket Details",
+        "NFTMARKETPLACE": "NFT Marketplace",
+        "MARKETPLACE": "Marketplace",
+        "EXPLORENOW": "Explore Now",
+        "LIVEAUCTION": "Live Auction",
+        "ITEMDETAILS": "Item Details",
+        "COLLECTIONS": "Collections",
+        "CREATORS": "Creators",
+        "RANKING": "Ranking",
+        "WALLETCONNECT": "Wallet Connect",
+        "CREATENFT": "Create NFT",
+        "FILEMANAGER": "File Manager",
+        "TODO": "To Do",
+        "JOBS": "Jobs",
+        "STATISTICS": "Statistics",
+        "JOBLISTS": "Job Lists",
+        "GRID": "Grid",
+        "CANDIDATELISTS": "Candidate Lists",
+        "GRIDVIEW": "Grid View",
+        "APPLICATION": "Application",
+        "NEWJOB": "New Job",
+        "COMPANIESLIST": "Companies List",
+        "JOBCATEGORIES": "Job Categories",
+        "APIKEY": "API Key"
+      }
+    },
+    "LAYOUTS": {
+      "TEXT": "Layouts",
+      "LIST": {
+        "HORIZONTAL": "Horizontal",
+        "DETACHED": "Detached",
+        "TWOCOLUMN": "Two Column",
+        "HOVERED": "Hovered"
+      }
+    },
+    "AUTHENTICATION": {
+      "TEXT": "Authentication",
+      "LIST": {
+        "BASIC": "Basic",
+        "COVER": "Cover",
+        "SIGNIN": "Sign In",
+        "SIGNUP": "Sign Up",
+        "PASSWORDRESET": "Password Reset",
+        "PASSWORDCREATE": "Password Create",
+        "LOCKSCREEN": "Lock Screen",
+        "LOGOUT": "Logout",
+        "SUCCESSMESSAGE": "Success Message",
+        "TWOSTEPVERIFICATION": "Two Step Verification",
+        "ERRORS": "Errors",
+        "404BASIC": "404 Basic",
+        "404COVER": "404 Cover",
+        "404ALT": "404 Alt",
+        "500": "500",
+        "OFFLINE": "Offline Page"
+      }
+    },
+    "AGENDAMENTOS": {
+      "TEXT": "Agendamentos",
+      "LIST": "Listagem"
+    },
+    "CALENDARIO": {
+      "TEXT": "Calendário"
+    }
+  }
+}

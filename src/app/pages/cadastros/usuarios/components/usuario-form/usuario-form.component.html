@@ -1,0 +1,85 @@
+
+<div class="modal-header bg-light p-3">
+    <h5 class="modal-title" id="exampleModalLabel">{{ title }}</h5>
+    <button 
+        type="button" 
+        class="btn-close" 
+        data-bs-dismiss="modal" 
+        aria-label="Close"
+        id="close-modal" 
+        (click)="modal.dismiss('Cross click')">
+    </button>
+</div>
+<form (ngSubmit)="salvar()" [formGroup]="formUsuario" class="tablelist-form needs-validation" autocomplete="off" novalidate>
+    <div class="modal-body">
+        <input type="hidden" name="id" value="" formControlName="id" />
+        <div class="row g-3">
+            <div class="col-lg-4">
+                <div class="form-floating">
+                    <input type="text" class="form-control" id="cpf" formControlName="cpf" mask="CPF_CNPJ" maxlength="14"
+                        [ngClass]="{'is-invalid': submitted && form['cpf'].invalid}">
+                    <label for="cpf">CPF</label>
+                </div>
+            </div>
+            <div class="col-lg-8">
+                <div class="form-floating">
+                    <input type="text" class="form-control" id="nome" formControlName="nome"
+                        [ngClass]="{'is-invalid': submitted && form['nome'].invalid}">
+                    <label for="nome">Nome</label>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="form-floating">
+                    <input type="email" class="form-control" id="email" formControlName="email"
+                        [ngClass]="{'is-invalid': submitted && form['email'].invalid}">
+                    <label for="email">Email</label>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="form-floating">
+                    <input type="password" class="form-control" id="senha" formControlName="senha"
+                        [ngClass]="{'is-invalid': submitted && form['senha'].invalid}">
+                    <label for="senha">Senha</label>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="form-floating">
+                    <input type="password" class="form-control" id="confirmaSenha" formControlName="confirmaSenha"
+                        [ngClass]="{'is-invalid': submitted && form['confirmaSenha'].invalid}">
+                    <label for="confirmaSenha">Confirma Senha</label>
+                    <div class="invalid-feedback" *ngIf="submitted && form.confirmaSenha.errors?.notMatching">Senha não corresponde</div>
+                </div>
+            </div>
+            <div class="col-lg-12">
+                <div class="flex-grow-1">
+                    <label for="perfil" class="form-check-label fs-14">Perfil</label>
+                </div>
+                <div class="form-floating">
+                    <ng-select 
+                        id="perfis"
+                        formControlName="perfis"
+                        bindLabel="label" 
+                        bindValue="value" 
+                        [multiple]="true"
+                        [items]="perfis">
+                    </ng-select>                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal-footer">
+        <div class="hstack gap-2 justify-content-end">
+            <button 
+                type="button" 
+                class="btn btn-light" 
+                data-bs-dismiss="modal"
+                (click)="modal.dismiss()">Cancelar
+            </button>
+            <button 
+                type="submit" 
+                class="btn btn-success" 
+                id="add-btn">Salvar
+            </button>
+        </div>
+    </div>
+</form>

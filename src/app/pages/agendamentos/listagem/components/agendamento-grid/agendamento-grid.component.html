@@ -1,0 +1,143 @@
+<div>
+    <div class="table-responsive table-card mb-1">
+        <table class="table">
+            <thead class="table-light text-muted">
+                <tr>
+                    <th class="sort" (click)="onSort('data')">DATA</th>
+                    <th class="sort" (click)="onSort('cliente')">CLIENTE</th>
+                    <th class="sort" (click)="onSort('email')">EMAIL</th>
+                    <th class="sort" (click)="onSort('telefone')">TELEFONE</th>
+                    <th class="sort" (click)="onSort('status')">STATUS</th>
+                    <th>AÇÕES</th>
+                </tr>
+            </thead>
+            <tbody>
+                @for(data of agendamentos; track $index){
+                <tr id="c_{{data.id}}">
+                    <td>
+                        <ngb-highlight [result]="data.data">
+                            {{ data.data | dataHora }}
+                        </ngb-highlight>
+                    </td>
+                    <td>
+                        <ngb-highlight [result]="data.nome">
+                            <span>
+                                <div class="d-flex align-items-center">
+                                    <div class="flex-grow-1">
+                                        <h5 class="fs-14 mb-1">
+                                        <a routerLink="/ecommerce/product-detail/1"
+                                            class="text-body">{{data.nome}}</a>
+                                        </h5>
+                                        <p *ngIf="data.observacoes" class="text-muted mb-0">Obs.:
+                                            <span class="fw-medium">{{data.observacoes}}</span>
+                                        </p>
+                                    </div>
+                                </div>
+                            </span>
+                        </ngb-highlight>
+                    </td>
+                    <td>
+                        <ngb-highlight [result]="data.email">
+                            {{ data.email }}
+                        </ngb-highlight>
+                    </td>
+                    <td>
+                        <ngb-highlight [result]="data.telefone">
+                            {{ data.telefone ? (data.telefone | telefone) : "" }}
+                        </ngb-highlight>
+                    </td>
+                    <td class="status">
+                        <span 
+                            class="badge text-uppercase"
+                            [ngClass]=" 
+                            { 
+                                'bg-danger-subtle text-danger': data.status === StatusAgendamento.NaoCompareceu,
+                                'bg-success-subtle text-success': data.status === StatusAgendamento.Compareceu,
+                                'bg-primary-subtle text-primary': data.status === StatusAgendamento.Aberto 
+                            }">
+                            {{StatusAgendamentoLabel.get(data.status)}}
+                        </span>
+                    </td>
+                    <td>
+                        <span *ngIf="data.status === StatusAgendamento.NaoCompareceu || data.status === StatusAgendamento.Aberto">
+                            <div class="dropdown" ngbDropdown>
+                              <button class="btn btn-soft-secondary btn-sm dropdown arrow-none" type="button"
+                                data-bs-toggle="dropdown" aria-expanded="false" ngbDropdownToggle>
+                                <i class="ri-more-fill"></i>
+                              </button>
+                              <ul class="dropdown-menu dropdown-menu-end" ngbDropdownMenu>
+                                <li *ngIf="this.isStatusAgendamentosNaoCompareceu(data.status)">
+                                  <a 
+                                    class="dropdown-item" 
+                                    href="javascript:void(0);" 
+                                    (click)="enviarEmail(data)">
+                                        <i class="ri-mail-send-line align-bottom me-2 text-muted"></i> 
+                                        Enviar Email 
+                                    </a>
+                                </li>
+                                <li *ngIf="this.isStatusAgendamentosNaoCompareceu(data.status)">
+                                    <a class="dropdown-item" 
+                                        href="https://wa.me/55{{data.telefone}}?text={{mensagemWhatsappNaoCompareceu(data)}}" 
+                                        target="_blank">
+                                        <i class="ri-whatsapp-line align-bottom me-2 text-muted"></i> 
+                                        Enviar Whatsapp
+                                    </a>
+                                </li>
+                                <li *ngIf="this.isStatusAgendamentosNaoCompareceu(data.status)">
+                                    <a class="dropdown-item" 
+                                        href="tel:{{data.telefone}}" 
+                                        target="_blank">
+                                        <i class="ri-phone-line align-bottom me-2 text-muted"></i> 
+                                        Ligar
+                                    </a>
+                                </li>
+                                <li *ngIf="exibeAtualizarStatus(data)">
+                                    <a 
+                                      class="dropdown-item" 
+                                      href="javascript:void(0);" 
+                                      (click)="confirmarComparecimento(data)">
+                                          <i class="ri-thumb-up-line align-bottom me-2 text-muted"></i> 
+                                          Compareceu
+                                      </a>
+                                  </li>
+                                  <li *ngIf="exibeAtualizarStatus(data)">
+                                    <a 
+                                      class="dropdown-item" 
+                                      href="javascript:void(0);" 
+                                      (click)="confirmarNaoComparecimento(data)">
+                                          <i class="ri-thumb-down-line align-bottom me-2 text-muted"></i> 
+                                          Não Compareceu
+                                      </a>
+                                  </li>
+                              </ul>
+                            </div>
+                          </span>
+                    </td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    </div>
+    <div class="row justify-content-md-between align-items-md-center">
+        <div class="col col-sm-6">
+            <div class="dataTables_info mb-2" role="status" aria-live="polite" *ngIf="allAgendamentos.length > 0">
+                Exibindo
+                {{paginationService.startIndex}} a
+                {{paginationService.endIndex}} de {{allAgendamentos.length}}
+                registros
+            </div>
+        </div>
+        <!-- Pagination -->
+        <div class="col col-sm-6">
+            <div class="text-sm-right float-end listjs-pagination">
+                <ngb-pagination 
+                    [collectionSize]="allAgendamentos.length" 
+                    [(page)]="paginationService.page" 
+                    (pageChange)="changePage()"
+                    [pageSize]="paginationService.pageSize">
+                </ngb-pagination>
+            </div>
+        </div>
+        <!-- End Pagination -->
+    </div>
+</div>

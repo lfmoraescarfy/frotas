@@ -1,0 +1,27 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/.angular
+/.angular/cache/17.0.5
+/.angular/cache/17.3.14
+node_modules
+.vscode/launch.json
+/dist/carfy-mf
+/package-lock.json
+.angular/cache/17.3.17/angular-webpack/d67a310746ae35643ed058fc5baf7e895687c327/0.pack
+.angular/cache/17.3.17/angular-webpack/d67a310746ae35643ed058fc5baf7e895687c327/2.pack
+.angular/cache/17.3.17/angular-webpack/d67a310746ae35643ed058fc5baf7e895687c327/3.pack
+.angular/cache/17.3.17/angular-webpack/d67a310746ae35643ed058fc5baf7e895687c327/6.pack
+.angular/cache/17.3.17/angular-webpack/d67a310746ae35643ed058fc5baf7e895687c327/8.pack
+.angular/cache/17.3.17/angular-webpack/d67a310746ae35643ed058fc5baf7e895687c327/11.pack
+.angular/cache/17.3.17/angular-webpack/d67a310746ae35643ed058fc5baf7e895687c327/12.pack
+.angular/cache/17.3.17/angular-webpack/d67a310746ae35643ed058fc5baf7e895687c327/15.pack
+.angular/cache/17.3.17/angular-webpack/d67a310746ae35643ed058fc5baf7e895687c327/16.pack
+.angular/cache/17.3.17/angular-webpack/d67a310746ae35643ed058fc5baf7e895687c327/18.pack
+.angular/cache/17.3.17/angular-webpack/d67a310746ae35643ed058fc5baf7e895687c327/20.pack
+.angular/cache/17.3.17/angular-webpack/d67a310746ae35643ed058fc5baf7e895687c327/21.pack
+.angular/cache/17.3.17/angular-webpack/d67a310746ae35643ed058fc5baf7e895687c327/22.pack
+.angular/cache/17.3.17/angular-webpack/d67a310746ae35643ed058fc5baf7e895687c327/index.pack
+.angular/cache/17.3.17/angular-webpack/d67a310746ae35643ed058fc5baf7e895687c327/index.pack.old

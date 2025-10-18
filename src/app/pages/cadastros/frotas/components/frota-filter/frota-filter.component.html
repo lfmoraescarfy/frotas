@@ -1,0 +1,25 @@
+<div class="row g-3">
+    <div class="col-xl-10">
+        <div class="search-box">
+            <input type="text" name="searchTerm" class="form-control"
+                placeholder="Procurar por marca, modelo, cor..."
+                [(ngModel)]="searchTerm" (ngModelChange)="performSearch()">
+            <i class="ri-search-line search-icon"></i>
+        </div>
+    </div>
+    <div class="col-xl-2">
+        <div class="row g-3">
+            <div class="col-sm-12">
+                <div>
+                    <button 
+                        type="button" 
+                        class="btn btn-primary w-100"
+                        (click)="performGet()">
+                        <i class="ri-equalizer-fill me-2 align-bottom"></i>
+                        Pesquisar
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

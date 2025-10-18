@@ -1,0 +1,29 @@
+<app-breadcrumbs title="AGENDAMENTOS" [breadcrumbItems]="breadCrumbItems"></app-breadcrumbs>
+<div class="row">
+    <div class="col-12">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="card card-h-100">
+                    <div class="card-body">
+                        <full-calendar [options]="calendarOptions"></full-calendar>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <ng-template #modalVisualizar let-modal>
+            <app-agendamento-view
+                [modal]="modal"
+                [agendamento]="agendamento"
+            ></app-agendamento-view>
+        </ng-template>
+
+        <ng-template #modalAgendar let-modal>
+            <app-agendamento-form
+                [modal]="modal"
+                [event]="event"
+                (onCreateAgendamento)="loadAgendamento($event)"
+            ></app-agendamento-form>
+        </ng-template>
+    </div>
+</div> 

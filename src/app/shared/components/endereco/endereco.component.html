@@ -1,0 +1,54 @@
+<form [formGroup]="formEndereco">
+    <div class="row g-2">
+        <p class="text-muted">Endereço</p>
+        <hr>
+        <div class="col-lg-2">
+            <div class="form-floating">
+                <input type="text" class="form-control" id="cep" formControlName="cep" mask="00000-000"  (focusout)="procurarEndereco()">
+                <label for="cep">CEP</label>
+            </div>
+        </div>
+        <div class="col-lg-10">
+        </div>
+        <div class="col-lg-2">
+            <div class="form-floating">
+                <select class="form-select" id="uf" formControlName="uf" (change)="onChange($event)">
+                    <option *ngFor="let uf of ufs" [value]="uf">{{ uf }}</option>
+                </select>
+                <label for="uf">UF</label>
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="form-floating">
+                <select class="form-select" id="localidade" formControlName="localidade" >
+                    <option *ngFor="let cidade of cidades" [value]="cidade.nome">{{ cidade.nome }}</option>
+                </select>
+                <label for="localidade">Cidade</label>
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <div class="form-floating">
+                <input type="text" class="form-control" id="logradouro" formControlName="logradouro">
+                <label for="logradouro">Logradouro</label>
+            </div>
+        </div>
+        <div class="col-lg-2">
+            <div class="form-floating">
+                <input type="text" class="form-control" id="numero" formControlName="numero">
+                <label for="numero">Número</label>
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="form-floating">
+                <input type="text" class="form-control" id="bairro" formControlName="bairro">
+                <label for="bairro">Bairro</label>
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <div class="form-floating">
+                <input type="text" class="form-control" id="complemento" formControlName="complemento">
+                <label for="complemento">Complemento</label>
+            </div>
+        </div>
+    </div>
+</form>

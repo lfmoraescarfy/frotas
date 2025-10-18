@@ -1,0 +1,78 @@
+<div id="event-modal">
+    <div class="modal-content border-0">
+        <div class="modal-header p-3 bg-info-subtle">
+            <h5 class="modal-title" id="modal-title">{{title}}</h5>
+            <button type="button" class="btn-close" (click)="modal.dismiss('Cross click')"></button>
+        </div>
+        <div class="modal-body p-4">
+            <div class="event-details view-event">
+                <div class="d-flex mb-2">
+                    <div class="flex-grow-1 d-flex align-items-center">
+                        <div class="flex-shrink-0 me-3">
+                            <i class="ri-calendar-event-line text-muted fs-lg"></i>
+                        </div>
+                        <div class="flex-grow-1">
+                            <h6 class="d-block fw-semibold mb-0" id="event-start-date-tag">{{agendamento.start | date: 'dd MMMM,yyyy'}}</h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="d-flex align-items-center mb-2">
+                    <div class="flex-shrink-0 me-3">
+                        <i class="ri-time-line text-muted fs-lg"></i>
+                    </div>
+                    <div class="flex-grow-1">
+                        <h6 class="d-block fw-semibold mb-0">
+                            <span id="event-timepicker1-tag"></span> {{agendamento.start | date: 'hh:mm' : '-03:00'}} <span id="event-timepicker2-tag"></span>
+                        </h6>
+                    </div>
+                </div>
+                <div class="d-flex mb-2">
+                    <div class="flex-grow-1 d-flex align-items-center">
+                        <div class="flex-shrink-0 me-3">
+                            <i class="ri-whatsapp-line text-muted fs-lg"></i>
+                        </div>
+                        <div class="flex-grow-1">
+                            <a href="https://wa.me/55{{agendamento.extendedProps['whatsapp']}}" target="_blank">
+                                <span class="d-block fw-semibold mb-0" id="event-start-date-tag">{{agendamento.extendedProps['whatsapp'] | telefone}}</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="d-flex mb-3">
+                    <div class="flex-shrink-0 me-3">
+                        <i class="ri-discuss-line text-muted fs-lg"></i>
+                    </div>
+                    <div class="flex-grow-1">
+                        <p class="d-block text-muted mb-0" id="event-description-tag">{{agendamento.extendedProps['description']}}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="hstack gap-2 justify-content-end">
+                <button
+                    *ngIf="showConfirmacaoStatus()" 
+                    type="button" 
+                    class="btn btn-soft-success" 
+                    id="btn-compareceu" 
+                    (click)="confirmarComparecimento()">
+                        <i class="ri-thumb-up-line align-bottom"></i> Compareceu
+                </button>
+                <button 
+                    *ngIf="showConfirmacaoStatus()"
+                    type="button" 
+                    class="btn btn-soft-danger" 
+                    id="btn-compareceu" 
+                    (click)="confirmarNaoComparecimento()">
+                        <i class="ri-thumb-down-line align-bottom"></i> Não Compareceu
+                </button>
+                <button 
+                    *ngIf="showExcluir()"
+                    type="button" 
+                    class="btn btn-soft-danger" 
+                    id="btn-delete" 
+                    (click)="confirmarExclusao()">
+                        <i class="ri-close-line align-bottom"></i> Excluir
+                </button>
+            </div>
+        </div>
+    </div>
+</div> 

@@ -1,0 +1,23 @@
+<div class="row g-4 align-items-center">
+    <div class="col-sm">
+        <div>
+            <h5 class="card-title mb-0">Lista de Usuários</h5>
+        </div>
+    </div>
+    <div class="col-sm-auto">
+        <div class="d-flex gap-2">
+            <button 
+                type="button" 
+                class="btn btn-success add-btn" 
+                data-bs-toggle="modal" 
+                id="create-btn"
+                data-bs-target="#showModal" 
+                (click)="openModal(content)">
+                <i class="ri-add-line align-bottom me-1"></i> Novo
+            </button>
+        </div>
+    </div>
+</div>
+<ng-template #content role="document" let-modal>
+    <app-usuario-form [modal]="modal"></app-usuario-form>    
+</ng-template>

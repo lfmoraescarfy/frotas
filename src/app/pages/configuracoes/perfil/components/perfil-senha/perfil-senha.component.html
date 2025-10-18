@@ -1,0 +1,30 @@
+<form [formGroup]="formSenha" (submit)="salvar()">
+    <div class="row g-2">
+        <div class="col-lg-4">
+            <div class="form-floating">
+                <input type="password" class="form-control" id="senhaAtual" formControlName="senhaAtual"
+                    [ngClass]="{'is-invalid': submitted && form['senhaAtual'].invalid}">
+                <label for="senhaAtual">Senha Atual</label>
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="form-floating">
+                <input type="password" class="form-control" id="novaSenha" formControlName="novaSenha"
+                    [ngClass]="{'is-invalid': submitted && form['novaSenha'].invalid}">
+                <label for="novaSenha">Nova Senha</label>
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="form-floating">
+                <input type="password" class="form-control" id="confirmaSenha" formControlName="confirmaSenha"
+                    [ngClass]="{'is-invalid': submitted && form['confirmaSenha'].invalid}">
+                <label for="confirmaSenha">Confirma Senha</label>
+            </div>
+        </div>
+        <div class="col-lg-12">
+            <div class="text-end">
+                <button type="submit" class="btn btn-success">Alterar</button>
+            </div>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,59 @@
+
+<div class="modal-header bg-light p-3">
+    <h5 class="modal-title">{{ title }}</h5>
+    <button 
+        type="button" 
+        class="btn-close" 
+        data-bs-dismiss="modal" 
+        aria-label="Close"
+        id="close-modal" 
+        (click)="modal.dismiss()">
+    </button>
+</div>
+<form (ngSubmit)="salvar()" [formGroup]="formVeiculo" class="tablelist-form needs-validation" autocomplete="off" novalidate>
+    <div class="modal-body">
+        <input type="hidden" name="id" value="" formControlName="id" />
+        <div class="row g-3">
+            <div class="col-lg-9">
+                <div class="form-floating">
+                    <input type="text" class="form-control" id="placa" formControlName="placa" maxlength="7" uppercase
+                        [ngClass]="{'is-invalid': form['placa'].invalid}">
+                    <label for="placa">Placa</label>
+                    <div *ngIf="form['placa']?.errors?.placaInvalida">
+                        {{ form['placa'].errors?.placaInvalida }}
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3" style="margin-top: 18px;">
+                <button 
+                    type="button" 
+                    class="btn btn-lg btn-primary w-100"
+                    (click)="buscar()"
+                    [disabled]="form['placa'].invalid || form['placa'].value === ''">
+                    <i class="ri-search-line me-2 align-bottom"></i>
+                    Buscar
+                </button>
+            </div>
+           <div class="col-lg-12" *ngIf="mostrarDetalhes">
+                <input type="text" class="form-control" id="modelo" formControlName="modelo">
+            </div>
+
+        </div> 
+    </div>
+    <div class="modal-footer">
+        <div class="hstack gap-2 justify-content-end">
+            <button 
+                type="button" 
+                class="btn btn-light" 
+                data-bs-dismiss="modal"
+                (click)="modal.dismiss()">Cancelar
+            </button>
+            <button 
+                type="submit" 
+                class="btn btn-success" 
+                [disabled]="!mostrarDetalhes"
+                id="add-btn">Adicionar
+            </button>
+        </div>
+    </div>
+</form>

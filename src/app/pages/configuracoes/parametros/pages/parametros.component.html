@@ -1,0 +1,32 @@
+<div class="position-relative mx-n4 mt-n4">
+    <div class="profile-wid-bg profile-setting-img">
+        <img src="assets/images/auth-one-bg.jpg" class="profile-wid-img" alt="">
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-xxl-3">
+        <app-logo-empresa></app-logo-empresa>
+    </div>
+    <div class="col-xxl-9">
+        <div class="card mt-xxl-n5">
+            <div class="card-header">
+                <ul ngbNav #customNav="ngbNav" [activeId]="1" 
+                    class="nav nav-tabs-custom rounded card-header-tabs border-bottom-0" role="tablist">
+                    <li [ngbNavItem]="1" class="nav-item">
+                        <a ngbNavLink class="nav-link" data-bs-toggle="tab" role="tab">
+                            <i class="fas fa-home"></i>Dados da Empresa</a>
+                        <ng-template ngbNavContent>
+                           <app-dados-empresa></app-dados-empresa>
+                        </ng-template>
+                    </li>
+                </ul>
+            </div>
+            <div class="card-body p-4">
+                <div class="tab-content">
+                    <div [ngbNavOutlet]="customNav"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
