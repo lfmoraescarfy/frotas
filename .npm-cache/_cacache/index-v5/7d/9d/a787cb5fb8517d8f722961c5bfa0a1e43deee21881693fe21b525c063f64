@@ -1,0 +1,2 @@
+
+d20fe26f74dd027ffb2ebc3b33d2f9d63f4e6f7d	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@esbuild%2flinux-ppc64","integrity":"sha512-fZqpJRafSgcBCjIZKhDkLu3FOBocuZAE0jKvLIsx8pAA/bJUJPL266wiQjBwkE4k0GEiGmkYJTYzstAGedcCiw==","time":1760843192461,"size":181074,"metadata":{"time":1760843192382,"url":"https://registry.npmjs.org/@esbuild%2flinux-ppc64","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Wed, 15 Oct 2025 02:13:22 GMT"},"options":{"compress":true}}}

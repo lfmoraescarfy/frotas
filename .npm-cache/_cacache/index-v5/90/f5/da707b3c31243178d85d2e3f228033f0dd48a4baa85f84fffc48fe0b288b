@@ -1,0 +1,2 @@
+
+b850b80c65da4797623d50279aefac63a3a8cb1b	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/sockjs","integrity":"sha512-5l7hur97Yt9i7uRmVTiB9NxkHCnmfn4Q5M4IhVmBweMt0/fL0IJM0qkfBim9Wm8utEKUqXZXCu48WNiMxbQMzA==","time":1760843197843,"size":25891,"metadata":{"time":1760843197834,"url":"https://registry.npmjs.org/sockjs","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Tue, 07 Feb 2023 12:52:53 GMT"},"options":{"compress":true}}}

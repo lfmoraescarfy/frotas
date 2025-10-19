@@ -1,0 +1,2 @@
+
+731d759aea89ad69dc3956c0108f270ee829351d	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@esbuild%2fwin32-ia32","integrity":"sha512-Z6d/zoQC0u0wKjOyqCzJhdAuIK+Gf1LzqXT0H81LkA2MBHTZpQP9BZ9Dtra7zN+mwRR8xuC/oKC2W/XpHwKlpw==","time":1760843192248,"size":178432,"metadata":{"time":1760843192153,"url":"https://registry.npmjs.org/@esbuild%2fwin32-ia32","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Wed, 15 Oct 2025 02:11:24 GMT"},"options":{"compress":true}}}

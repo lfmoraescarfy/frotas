@@ -1,0 +1,2 @@
+
+7ff68abc8b45c8ba5b4d55b1994f12a790fc678f	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@esbuild%2fwin32-arm64","integrity":"sha512-DCMYg6lBzWpNACsafRM0DvxI0QnifJ68h5+QYktojUiLyu9jdVm5h5NB7JALZ0wi1WBeaOaMestP6fcpMJJBVg==","time":1760843192514,"size":179444,"metadata":{"time":1760843192419,"url":"https://registry.npmjs.org/@esbuild%2fwin32-arm64","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Wed, 15 Oct 2025 02:11:25 GMT"},"options":{"compress":true}}}

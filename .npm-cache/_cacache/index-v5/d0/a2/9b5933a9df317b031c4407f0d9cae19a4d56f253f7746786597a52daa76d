@@ -1,0 +1,2 @@
+
+3232a78060cefd6f9d06f85d98d77c7fa2210988	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/graceful-fs","integrity":"sha512-lB0fijngPwgF0WPGG/Cp081luA6o4p5PMlQ7ZC4QPqjSsFEHob/EkZN9OSsmbrAvnsk95Vrc+s5b55CNzgM8jw==","time":1760843195651,"size":124285,"metadata":{"time":1760843195572,"url":"https://registry.npmjs.org/graceful-fs","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Fri, 09 Jun 2023 21:32:48 GMT"},"options":{"compress":true}}}

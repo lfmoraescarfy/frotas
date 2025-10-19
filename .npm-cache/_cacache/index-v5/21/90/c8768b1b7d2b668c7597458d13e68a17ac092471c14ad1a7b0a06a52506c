@@ -1,0 +1,2 @@
+
+fdcde5aff3722a309d56e0e9a7901ebf07782674	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/colorette","integrity":"sha512-+TX7JzpDjykprpR3UWnZ029uK/GmPCAsq6gN9vq612od37bgPdkhUIHR36scA0biuKfRkDAyRR5/w8ZZuyOd6g==","time":1760843197754,"size":39989,"metadata":{"time":1760843197546,"url":"https://registry.npmjs.org/colorette","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Sun, 16 Apr 2023 15:34:11 GMT"},"options":{"compress":true}}}

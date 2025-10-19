@@ -1,0 +1,2 @@
+
+3447bf387ac8e7d219290924d5545b851ed594eb	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@esbuild%2fsunos-x64","integrity":"sha512-9bvQx25x66NAeQviAlSDIM8ZI6SqRonFiw6ZonVzYQmXybhZR8VAYO0oEbvJ+7lQVXWZGLIOhNfRauXnNAobkw==","time":1760843191962,"size":177853,"metadata":{"time":1760843191885,"url":"https://registry.npmjs.org/@esbuild%2fsunos-x64","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Wed, 15 Oct 2025 02:13:25 GMT"},"options":{"compress":true}}}

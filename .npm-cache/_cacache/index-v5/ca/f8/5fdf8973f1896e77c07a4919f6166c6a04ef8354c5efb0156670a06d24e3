@@ -1,0 +1,2 @@
+
+ff4611829990d7441a319c100f2d3aaf90b98933	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/chalk","integrity":"sha512-s10acpE/EpHM1fOnVqv604aLZPoFclD7o8TI4g3jOL8MmCuHicXEuXJ8JmWmkpQ6zhCDbnzRuk48AS45HF754Q==","time":1760843192220,"size":117844,"metadata":{"time":1760843192140,"url":"https://registry.npmjs.org/chalk","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Tue, 14 Oct 2025 04:55:05 GMT"},"options":{"compress":true}}}

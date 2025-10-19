@@ -1,0 +1,2 @@
+
+20d20d232b07c44bbbe48c4dcbf2e94a894fdaa9	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@esbuild%2flinux-ia32","integrity":"sha512-BUSvaw0MBw1EempYlM905nIckDOLuSbACHZZE/gfItKhsO7QeaYwpyEuO2Kka544lCTZi7/K7DKaosgwqG1LbA==","time":1760843192102,"size":178229,"metadata":{"time":1760843192075,"url":"https://registry.npmjs.org/@esbuild%2flinux-ia32","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Wed, 15 Oct 2025 02:12:19 GMT"},"options":{"compress":true}}}

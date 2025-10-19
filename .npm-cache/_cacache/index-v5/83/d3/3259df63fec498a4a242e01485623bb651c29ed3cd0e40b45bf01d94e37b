@@ -1,0 +1,2 @@
+
+815454fbe89a50c86696a52388411ecf4fc6f5ab	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/glob-to-regexp","integrity":"sha512-QE7363+OlW0WoDIcP/kkTWdIOmmmvnFPN5Bnw4nl2e+N6YJt5fWwS7ZsvfY6f2kXV6sZLspPM0rXmJ61uoXxYQ==","time":1760843196943,"size":4985,"metadata":{"time":1760843196919,"url":"https://registry.npmjs.org/glob-to-regexp","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Sat, 18 Jun 2022 12:54:54 GMT"},"options":{"compress":true}}}

@@ -1,0 +1,2 @@
+
+87f7de5d96de02930f838b74822238cb5c6788c3	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@esbuild%2fdarwin-arm64","integrity":"sha512-upa/ASm6+zjke9qXl7cE+pFYZvqo3q3/bWLSdPVMR3J3NjSAHKSf0ZYXEhoIr79FwiCDcoaKx987s4Xl/1V7yA==","time":1760843192529,"size":179843,"metadata":{"time":1760843192429,"url":"https://registry.npmjs.org/@esbuild%2fdarwin-arm64","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Wed, 15 Oct 2025 02:11:58 GMT"},"options":{"compress":true}}}

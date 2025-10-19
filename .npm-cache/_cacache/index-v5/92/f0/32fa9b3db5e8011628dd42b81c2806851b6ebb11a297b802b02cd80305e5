@@ -1,0 +1,2 @@
+
+dca58abc8c5c9e645066cfcf0c87209b71ce3ef1	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/ipaddr.js","integrity":"sha512-MTgXJz0Eo5RzzDeFT3zOb2vZMjdolbOwLGG10JPAxTlRZrGL0L0D5bdyRe4+VVZ1lVERWywV6aaG4ahTPbNffQ==","time":1760843197944,"size":25723,"metadata":{"time":1760843197940,"url":"https://registry.npmjs.org/ipaddr.js","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Sat, 20 Apr 2024 01:36:58 GMT"},"options":{"compress":true}}}

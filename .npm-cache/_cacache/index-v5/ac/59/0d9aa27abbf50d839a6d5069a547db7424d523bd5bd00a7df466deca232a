@@ -1,0 +1,2 @@
+
+930283cf5ad6614b12ce65c9ec3249722b808e65	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/strip-ansi","integrity":"sha512-th9ZWwa9ryB4dwQ7/s+jpKzhsqNAxTrgH2Wf1H5EHNUu43ieGPkIduaKIs0npmQ90XM6n7J2cWH3U4Owwme5ew==","time":1760843194351,"size":41855,"metadata":{"time":1760843194323,"url":"https://registry.npmjs.org/strip-ansi","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Mon, 08 Sep 2025 17:14:02 GMT"},"options":{"compress":true}}}

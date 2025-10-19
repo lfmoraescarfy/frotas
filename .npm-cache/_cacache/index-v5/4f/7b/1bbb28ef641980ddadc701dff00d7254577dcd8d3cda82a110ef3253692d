@@ -1,0 +1,2 @@
+
+ceeddeb59b759afd4eba9ae6448ec3c2615271ef	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/dom-serializer","integrity":"sha512-A2JisGkm0fRUoCilE2Bd071kptZIavj3pbrAiJHvgApiIfYzwtnR+VCwc0qqK3AoiHvQ4gYC2r9nbCqVqibLSw==","time":1760843191503,"size":28093,"metadata":{"time":1760843191444,"url":"https://registry.npmjs.org/dom-serializer","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Fri, 16 Dec 2022 10:28:36 GMT"},"options":{"compress":true}}}

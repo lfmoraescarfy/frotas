@@ -1,0 +1,2 @@
+
+57f03a82cd531490317a58c8c027720a736d6a8b	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@jridgewell%2fresolve-uri","integrity":"sha512-QrWAXGp9OuGF4J+jCdA5tRDVZhfCpN/DTbNkdl1s9imNE2ALrfIMpwLDhUN7QI6GkzUFGrWkFJ0WjSC3lb6Xvg==","time":1760843199188,"size":57361,"metadata":{"time":1760843199180,"url":"https://registry.npmjs.org/@jridgewell%2fresolve-uri","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Wed, 14 Feb 2024 19:32:39 GMT"},"options":{"compress":true}}}

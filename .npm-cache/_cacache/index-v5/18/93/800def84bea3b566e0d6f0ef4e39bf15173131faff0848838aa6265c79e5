@@ -1,0 +1,2 @@
+
+bca1afe935a3798f4812da05af94fb2f7b57fe88	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@esbuild%2flinux-s390x","integrity":"sha512-wOt7iUmfzxCGUqJVZ28kfE6sIfpzpIVgQenc4b3lNVfVtmYS2TH1s1CyI0k3jrVhNWJJMXBJOD3kdOcKEam82A==","time":1760843192460,"size":180599,"metadata":{"time":1760843192373,"url":"https://registry.npmjs.org/@esbuild%2flinux-s390x","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Wed, 15 Oct 2025 02:13:23 GMT"},"options":{"compress":true}}}

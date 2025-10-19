@@ -1,0 +1,2 @@
+
+16c82a1f898b1f8af26a4c023971a1b4d88e4a4b	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@esbuild%2fandroid-x64","integrity":"sha512-gpCowiAroouYhIPlDzSSaUqzihCo1sNslv/SBQHBTpRY3QIsuljjW21CxKbmeW4e6ASWcBblpfzg29q9azEiqA==","time":1760843192280,"size":177685,"metadata":{"time":1760843192178,"url":"https://registry.npmjs.org/@esbuild%2fandroid-x64","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Wed, 15 Oct 2025 02:12:11 GMT"},"options":{"compress":true}}}

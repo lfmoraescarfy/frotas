@@ -1,0 +1,2 @@
+
+f8222b893b898b96a23590ec89fdb76b3d55484d	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@types%2fbonjour","integrity":"sha512-zFZ18P8edrKtGG24mqsDfif+hr1++fqcmYYWc+nLVWujgET0gmRnty6lIUe80JRtAxNBCuFETKY9nWtzcJZnaA==","time":1760843198902,"size":24290,"metadata":{"time":1760843198897,"url":"https://registry.npmjs.org/@types%2fbonjour","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Sun, 03 Aug 2025 06:27:57 GMT"},"options":{"compress":true}}}

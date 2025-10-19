@@ -1,0 +1,2 @@
+
+80e84589077bc85ab9a21b92bcf44fb3e6fceef4	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/needle","integrity":"sha512-vf27HAYQwnZiJFLPex10zKfB9Ri3NlCrotSZwRDn72HC/oVr6UAMFZuw8qPDJoCbi8df7qp6IBTdQTnd2m/Shg==","time":1760843194427,"size":97704,"metadata":{"time":1760843194387,"url":"https://registry.npmjs.org/needle","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Tue, 12 Dec 2023 01:05:10 GMT"},"options":{"compress":true}}}

@@ -1,0 +1,2 @@
+
+5198294a832c6f63b24a005985eadd048b7d5aa8	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/jiti","integrity":"sha512-lgZws1vY9hvzf957mw5/vnCjFF/nqk6K/1kYbzUAxSUyZ9Sr/f9tJQ+hBGAqG1SZ5CxmI5D/r8jXDTz7nD8tCw==","time":1760843195919,"size":231500,"metadata":{"time":1760843195896,"url":"https://registry.npmjs.org/jiti","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Wed, 01 Oct 2025 07:34:09 GMT"},"options":{"compress":true}}}

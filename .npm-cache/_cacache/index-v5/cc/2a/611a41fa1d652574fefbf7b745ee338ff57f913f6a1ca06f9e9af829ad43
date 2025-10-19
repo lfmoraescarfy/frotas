@@ -1,0 +1,2 @@
+
+431263743cb4dd1746f204405558b66fe916905a	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/klona","integrity":"sha512-zrgi8NRdgCtHDZmAqshnfKoG+n37cJjNCfpykTWdGlUQfXQ/sMIgj53qt4zfFBZxenS9FyUUjwGWoebw+tWeZw==","time":1760843194555,"size":18220,"metadata":{"time":1760843194521,"url":"https://registry.npmjs.org/klona","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Mon, 16 Jan 2023 19:20:31 GMT"},"options":{"compress":true}}}
