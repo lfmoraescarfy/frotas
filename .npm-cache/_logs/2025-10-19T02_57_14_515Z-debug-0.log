@@ -1443,3 +1443,9 @@
 1442 silly placeDep node_modules/tar/node_modules/fs-minipass minipass@3.3.6 OK for: fs-minipass@2.1.0 want: ^3.0.0
 1443 silly reify moves {}
 1444 warn deprecated read-package-json@7.0.1: This package is no longer supported. Please use @npmcli/package-json instead.
+1445 verbose cwd /home/project
+1446 verbose os Linux 5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+1447 verbose node v20.19.1
+1448 verbose npm  v10.8.2
+1449 verbose exit 1
+1450 verbose code 1
