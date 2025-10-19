@@ -1,0 +1,2 @@
+
+867ae6c0d94796a4a1cef8ee26351d158bed6b61	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/emojis-list","integrity":"sha512-krrQDkqpWUywvcQIoiUcMMvn43jm4MXm0yKx9Cw6cJpgXwWOeHJcd1eJ0rsEEFETCfrsiahOjL9xGi/zMWqguQ==","time":1760843256940,"size":7097,"metadata":{"time":1760843256931,"url":"https://registry.npmjs.org/emojis-list","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Fri, 17 Jun 2022 04:14:05 GMT"},"options":{"compress":true}}}

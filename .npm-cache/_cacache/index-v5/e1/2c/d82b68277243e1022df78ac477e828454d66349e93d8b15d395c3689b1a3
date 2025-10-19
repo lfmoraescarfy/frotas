@@ -1,0 +1,2 @@
+
+c2d020de85820999f0f29beecec95cc7186123f2	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/inflight","integrity":"sha512-ADaf952ekGDnk3/edatxziJ8oLW5vQ23QmbMrSLTqK/+Bq3pCYlZDns+8sVGKsImGecxcZmjM/TuCuraZjtOow==","time":1760843261280,"size":5484,"metadata":{"time":1760843261257,"url":"https://registry.npmjs.org/inflight","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Thu, 23 May 2024 03:14:33 GMT"},"options":{"compress":true}}}

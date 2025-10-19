@@ -1,0 +1,2 @@
+
+454ed705227391fa5370d2d9aaf3864348f3a270	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/shallow-clone","integrity":"sha512-gEHAaAjr4W8Hd3znVZczG2uuaDrxUfJM+T4xrHCY324+EyiNt1h1XgbEYlrv33VfKKZj4lNg5Md2b8t1VSSdJQ==","time":1760843283838,"size":24716,"metadata":{"time":1760843283814,"url":"https://registry.npmjs.org/shallow-clone","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Sun, 26 Jun 2022 18:35:00 GMT"},"options":{"compress":true}}}

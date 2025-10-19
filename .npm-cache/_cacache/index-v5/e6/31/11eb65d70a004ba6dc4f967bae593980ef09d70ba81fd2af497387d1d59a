@@ -1,0 +1,2 @@
+
+99bb5fb522ba6030d35882b5de56c32abd655f6d	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/raw-body","integrity":"sha512-AZel6HcfefQ3CRm/EjTdWOd6D+LxrPN5kY7XN+DDxicNpzIdcKq2g+gBY4Vbg4fOT13S1m6RqrrOIv+qLObRsA==","time":1760843278632,"size":111234,"metadata":{"time":1760843278624,"url":"https://registry.npmjs.org/raw-body","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Thu, 04 Sep 2025 01:45:11 GMT"},"options":{"compress":true}}}

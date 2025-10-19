@@ -1,0 +1,2 @@
+
+fd4bba3beef3a01e1fa4fab6fc581ecd425db10c	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/negotiator","integrity":"sha512-ekWu0UOZfBX0XJgaRfPLSxkQ2Zr23HUlPvMY1gI0z9YMIr3aFyiPeT4U8QFE9wAagjISTqwgrN9QnK7iP5p34Q==","time":1760843246473,"size":48046,"metadata":{"time":1760843246451,"url":"https://registry.npmjs.org/negotiator","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Wed, 14 May 2025 14:56:24 GMT"},"options":{"compress":true}}}

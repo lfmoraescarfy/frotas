@@ -1,0 +1,2 @@
+
+7e13b892ad64c36eeae8f48e16041bfc0d827bf8	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/node-gyp-build","integrity":"sha512-fZ2sUneiCBSwH8FgNaX5cwqBFC8/4R95LzjX89HjYHkTKjfslxxrfgAnrIebfYKDgPaSfI3tY+bl6FXT6hqa8A==","time":1760843252669,"size":44113,"metadata":{"time":1760843252617,"url":"https://registry.npmjs.org/node-gyp-build","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Tue, 19 Nov 2024 14:43:48 GMT"},"options":{"compress":true}}}
