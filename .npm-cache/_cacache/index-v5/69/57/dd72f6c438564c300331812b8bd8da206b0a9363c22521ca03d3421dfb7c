@@ -1,0 +1,2 @@
+
+d9972d60ec42757a626c02955b763f94a48f8d12	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@npmcli%2fnode-gyp","integrity":"sha512-E6VQxVcPPZJo2qMnWRiQMVbZdfF8IHiOiOsSuaHyvKpv1pWL0FFJkx/DAY2pz7w45w1/EPijJF0RhGpHLN6gnw==","time":1760842646050,"size":19507,"metadata":{"time":1760842646014,"url":"https://registry.npmjs.org/@npmcli%2fnode-gyp","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Wed, 14 May 2025 20:02:53 GMT"},"options":{"compress":true}}}

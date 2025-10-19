@@ -1,0 +1,2 @@
+
+f1bc344a9e029d7b1ec53a43a8836197d7bd1f24	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/npm-bundled","integrity":"sha512-IYTjpUdZ3xuBAY0+kPCMUcesOCC3jR1rPZ/PxMM0NCFUTggxH3lHAAt1JZCV9zT06BOAXtUZeeEwPyxupPlTdg==","time":1760842645204,"size":18629,"metadata":{"time":1760842645177,"url":"https://registry.npmjs.org/npm-bundled","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Wed, 14 May 2025 20:03:23 GMT"},"options":{"compress":true}}}

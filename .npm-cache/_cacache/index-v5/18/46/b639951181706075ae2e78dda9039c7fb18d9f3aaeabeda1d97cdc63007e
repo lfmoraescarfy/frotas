@@ -1,0 +1,2 @@
+
+9127986128917e8e7ad02ee6bd0f2f1cd7e506f0	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@npmcli%2fagent","integrity":"sha512-9LHfNeqzmIzhcB00AsySEip738RcLi+43kF8y+uSS40RcvZJU1fDOiHukMPVxhaYxsBlKMxw0wQc4gaNg2HSpw==","time":1760842648905,"size":28435,"metadata":{"time":1760842648892,"url":"https://registry.npmjs.org/@npmcli%2fagent","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Thu, 18 Sep 2025 16:21:46 GMT"},"options":{"compress":true}}}

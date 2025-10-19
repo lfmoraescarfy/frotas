@@ -1,0 +1,2 @@
+
+dfb26b948a7ef25915d3198074ae32b7092be5f2	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/get-caller-file","integrity":"sha512-qG291LFNTNUnlCAt71Q4RMv8qnId3i21ZlM+8RnXhIrdcc8+pM+qsFsOTRJl//h5YkCHvYxbjMaiSkwL4r5kiA==","time":1760842642502,"size":13601,"metadata":{"time":1760842642494,"url":"https://registry.npmjs.org/get-caller-file","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Sun, 10 Sep 2023 02:37:51 GMT"},"options":{"compress":true}}}

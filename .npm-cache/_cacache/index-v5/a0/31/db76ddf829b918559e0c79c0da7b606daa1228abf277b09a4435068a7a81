@@ -1,0 +1,2 @@
+
+8c960ca0a09d2eac8787b7f9faf064a16988cbc2	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/ansi-escapes","integrity":"sha512-agiJZWBaweAe2IAMsAR7ZkzRSN3GzoR2oX54H4bZDtZcVUKE/xSHkugWhZTMe/eesXnUZjIX/m0ERBFKQu0z8A==","time":1760842641706,"size":28893,"metadata":{"time":1760842641675,"url":"https://registry.npmjs.org/ansi-escapes","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Tue, 23 Sep 2025 00:44:53 GMT"},"options":{"compress":true}}}

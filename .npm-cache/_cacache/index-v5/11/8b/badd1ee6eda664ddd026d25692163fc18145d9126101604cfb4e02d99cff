@@ -1,0 +1,2 @@
+
+8640646d33bbf913fbd663503814f5a1c7009cfd	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@sigstore%2ftuf","integrity":"sha512-zZYbNlFT1hTu85cv7GX+PBPTfJhL+6RaMbP9aVSWgf9PQvv55cU/3cd+W78yo90913SWfPiM5dKnl3HL3JyKaA==","time":1760842646438,"size":35401,"metadata":{"time":1760842646428,"url":"https://registry.npmjs.org/@sigstore%2ftuf","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Thu, 25 Sep 2025 23:01:18 GMT"},"options":{"compress":true}}}

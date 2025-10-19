@@ -1,0 +1,2 @@
+
+060d959d29e98cecf964403215573cb6944d08a6	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/shebang-command","integrity":"sha512-TnxocIGRu45AE6nTGlfX7SQF3SDbYbtbG4rTjhddeCk4OJCilMcX9p75MZJRol/04uTXonWTRaifx46q2whCnA==","time":1760842647945,"size":3464,"metadata":{"time":1760842647938,"url":"https://registry.npmjs.org/shebang-command","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Thu, 22 Jun 2023 16:33:57 GMT"},"options":{"compress":true}}}

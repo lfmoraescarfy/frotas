@@ -1,0 +1,2 @@
+
+c6040a2735de35733260a303076a651c80c14221	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/hosted-git-info","integrity":"sha512-6PtsIt2zkRhl2GiD9fVVu9VLnT7AEe04LijJhYgGUXnidhOGkuJWCo9W+NBge32RUR0toWZhLJLyis0o9VhcNQ==","time":1760842641819,"size":77606,"metadata":{"time":1760842641770,"url":"https://registry.npmjs.org/hosted-git-info","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Wed, 08 Oct 2025 16:36:23 GMT"},"options":{"compress":true}}}

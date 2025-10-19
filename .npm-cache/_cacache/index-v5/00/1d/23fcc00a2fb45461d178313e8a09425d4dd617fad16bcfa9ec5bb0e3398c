@@ -1,0 +1,2 @@
+
+26d4708b6a87a170f0042daa8470c7b003ee05cb	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/fs-minipass","integrity":"sha512-FUctBdk+4Vl4NaJlmUMi4cggr/YZ1xsOHai0oY8vZSkjkuCNVOh87G6OPwFo0HZk+zzS8gNaMpO5LZspSxi3xQ==","time":1760842642167,"size":19625,"metadata":{"time":1760842642105,"url":"https://registry.npmjs.org/fs-minipass","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Sat, 20 Apr 2024 21:34:01 GMT"},"options":{"compress":true}}}

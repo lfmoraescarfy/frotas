@@ -1,0 +1,2 @@
+
+651e973e1074f172556789056cb8a5bde8432e34	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@npmcli%2fgit","integrity":"sha512-n9W2Wm/9dSyrLGWOw5HzsxQHdEeLGD+zLs8+H2HStts8u6P24XhF2oo2bZ6rSdmzsJNIlQaM1FaPf6RvrPONlA==","time":1760842642851,"size":108180,"metadata":{"time":1760842642841,"url":"https://registry.npmjs.org/@npmcli%2fgit","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Wed, 17 Sep 2025 21:38:29 GMT"},"options":{"compress":true}}}

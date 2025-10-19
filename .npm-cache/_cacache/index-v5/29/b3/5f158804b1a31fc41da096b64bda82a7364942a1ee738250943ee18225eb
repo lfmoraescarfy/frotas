@@ -1,0 +1,2 @@
+
+7625f91c5b01e44f98a0e5474bf5f95e381d1843	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/minipass-collect","integrity":"sha512-Jq548eKele6BUPUoEKrPB9z47eqqnz65gGcNiSJOq8CFaIfcUNaSuNMfGyLXjEfZku+NWMG7G97FWPMe2btLWw==","time":1760842645358,"size":5951,"metadata":{"time":1760842645339,"url":"https://registry.npmjs.org/minipass-collect","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Sun, 20 Aug 2023 19:38:33 GMT"},"options":{"compress":true}}}
