@@ -1,0 +1,2 @@
+
+c920e2b3f739e0058920574f16fea2ac0a607438	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@angular%2fanimations","integrity":"sha512-oSlnlMcjoUVPAYzCTDH9sGoN+Joln+SUGgPu4YuCHWY0uGnFWZuFxIsMZHrFOuP5j0KugU8CfKBvLfl7mK1iLA==","time":1760842591357,"size":2607930,"metadata":{"time":1760842591146,"url":"https://registry.npmjs.org/@angular%2fanimations","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Thu, 16 Oct 2025 20:28:40 GMT"},"options":{"compress":true}}}
