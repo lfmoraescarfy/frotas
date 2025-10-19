@@ -1,0 +1,2 @@
+
+01089fb1f78a7b94bc4156583deb148327bca573	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@ctrl%2fngx-emoji-mart","integrity":"sha512-uLFn7ijWAkTRnD5D3wXq4eEtWRv20XW/69V8mfaQFxdIMQcswCQPFMkDLqVeezrtEkOk/VVAfvwgWyiUSBj9Uw==","time":1760843561154,"size":240693,"metadata":{"time":1760843561058,"url":"https://registry.npmjs.org/@ctrl%2fngx-emoji-mart","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Tue, 16 Sep 2025 07:30:57 GMT"},"options":{"compress":true}}}
