@@ -1,2 +1,0 @@
-
-db3765e71f5f9ba13f9e8c659c800908284abd96	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/ansi-colors","integrity":"sha512-4ZXhrhUVYte0qRK6ZYxN/ZdhlT5cqw8OtKj84U22aS9A3Fu445MKPz+MKEhzalhzQ5If7ixD0ODW9LWE29DeGA==","time":1760842638727,"size":42026,"metadata":{"time":1760842638701,"url":"https://registry.npmjs.org/ansi-colors","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Fri, 07 Jul 2023 03:58:58 GMT"},"options":{"compress":true}}}

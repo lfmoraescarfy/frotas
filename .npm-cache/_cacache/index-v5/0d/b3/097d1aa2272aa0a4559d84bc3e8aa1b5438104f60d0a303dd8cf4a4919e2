@@ -1,2 +1,0 @@
-
-0b050178dbfd10662023fe50de21ee5c0f0c66dd	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/define-lazy-prop","integrity":"sha512-jY3/muCv90qeVg+Jnyr7aHEesWKHIlD9ku1DBImm4BxBkN1zAHtMAO3hQSgDnJBm9foTysSc5Ev3J8ILrkBSog==","time":1760842641924,"size":3781,"metadata":{"time":1760842641891,"url":"https://registry.npmjs.org/define-lazy-prop","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Tue, 14 Jun 2022 23:27:39 GMT"},"options":{"compress":true}}}

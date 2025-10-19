@@ -1,2 +1,0 @@
-
-9172468dda63b556d15add3c8e6156a67bb1dce1	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/cliui","integrity":"sha512-Mw+SDW3WIH/0vu9hlPtKUCxYW2ad1tlrnRaT+aFfkj54F9N6OhPii2i24P2ZcTY7gxlQ2sX3ACBlOCf/VtMYxg==","time":1760842642450,"size":30917,"metadata":{"time":1760842642445,"url":"https://registry.npmjs.org/cliui","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Mon, 17 Mar 2025 02:36:27 GMT"},"options":{"compress":true}}}

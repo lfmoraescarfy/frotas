@@ -1,2 +1,0 @@
-
-23281ce40d89d90035ee2265bd21e48d2c6312e4	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/log-symbols","integrity":"sha512-g1Jgv4StcUNSQpajpggQEDwTdPGW/+0h07M2TT1BnL6oNPEP6RbzX1qX3VSNpyJ+69jeBH3QtKiI87+aHXNOSw==","time":1760842641938,"size":13991,"metadata":{"time":1760842641906,"url":"https://registry.npmjs.org/log-symbols","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Mon, 13 Oct 2025 17:09:29 GMT"},"options":{"compress":true}}}

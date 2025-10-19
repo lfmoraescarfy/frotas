@@ -1,2 +1,0 @@
-
-2497f767b9d7a52f2dc3a8862c2926cb58a075e2	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/eastasianwidth","integrity":"sha512-9i64AvDx4rkaK7kQFH462+coDwyoTO6rGXnydpP6v+LFxiFp0mGmXZKD44ES/N6e3xPt3SaU5fwSMeity+No/g==","time":1760842648074,"size":2726,"metadata":{"time":1760842648070,"url":"https://registry.npmjs.org/eastasianwidth","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Sun, 21 Apr 2024 05:25:59 GMT"},"options":{"compress":true}}}

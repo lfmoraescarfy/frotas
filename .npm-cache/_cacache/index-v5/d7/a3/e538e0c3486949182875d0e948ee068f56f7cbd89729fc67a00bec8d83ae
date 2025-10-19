@@ -1,2 +1,0 @@
-
-26bb05796695a053795beade5d7d17321f948cab	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/node-gyp","integrity":"sha512-0niqEVb+3z7IEOeT8C1m1dnUAtOj9TmNmTzWpaKFo9/N4L9ZIK28QSqeVMsDwzwNTDhOf54UesAzAuHBeK+ISw==","time":1760842645248,"size":153933,"metadata":{"time":1760842645187,"url":"https://registry.npmjs.org/node-gyp","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Wed, 15 Oct 2025 12:33:11 GMT"},"options":{"compress":true}}}

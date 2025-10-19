@@ -1,2 +1,0 @@
-
-66a47b333db30bb3447541032a03b75190ddc392	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/punycode","integrity":"sha512-Z20l6eap/ph9I5hB/KHqnEz5cNgl6Sp2ZvJ5vohwWkrtFmnO10fTWZV+Fu0jCtX988eMYnpFizaNvCSaaX/xkw==","time":1760842643948,"size":22438,"metadata":{"time":1760842643943,"url":"https://registry.npmjs.org/punycode","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Mon, 30 Oct 2023 18:28:34 GMT"},"options":{"compress":true}}}

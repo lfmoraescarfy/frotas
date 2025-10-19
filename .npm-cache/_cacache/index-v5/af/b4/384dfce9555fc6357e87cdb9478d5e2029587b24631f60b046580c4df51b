@@ -1,2 +1,0 @@
-
-05ce0d52a4c7a63b00b7828862f254d4e3ab7a40	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/ora","integrity":"sha512-4rWLVQbpUA7xOGDxZ/HwLr7iuJ2r1URBgNbY+aLx6qkHX7BnDOnGuSi4+OymwxrSzUeVqBgVPhMg3+e1KpMv1w==","time":1760842638633,"size":68127,"metadata":{"time":1760842638558,"url":"https://registry.npmjs.org/ora","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Tue, 14 Oct 2025 04:55:06 GMT"},"options":{"compress":true}}}

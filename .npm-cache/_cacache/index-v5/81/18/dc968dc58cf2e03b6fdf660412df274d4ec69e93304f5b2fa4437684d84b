@@ -1,2 +1,0 @@
-
-f73951c87ef4a81e7391eb48c803aadef92b9f0c	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/dunder-proto","integrity":"sha512-TWIz/zYcoR2LiHlcdlyTpDa8zsH2XETRy1zlsSaspbwHs42Pg4X/csdrg7JthvVZcBb8MF5cqT+/K7rB0+4Sqw==","time":1760842644708,"size":2071,"metadata":{"time":1760842644698,"url":"https://registry.npmjs.org/dunder-proto","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Tue, 17 Dec 2024 02:12:48 GMT"},"options":{"compress":true}}}

@@ -1,2 +1,0 @@
-
-e4eb85c6ffc08b8ab3428e307d00537e67fd7754	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/is-lambda","integrity":"sha512-QqHitOZMwl0FFpZ+TMjAo9ojZ0nbVbaPpztLSOs4/esWOLqxbg/5y6EQKvkBrfMp7APwkqjlpdn5WYFbSCygZg==","time":1760842648187,"size":1177,"metadata":{"time":1760842648168,"url":"https://registry.npmjs.org/is-lambda","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Sun, 19 Jun 2022 02:44:38 GMT"},"options":{"compress":true}}}

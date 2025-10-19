@@ -1,2 +1,0 @@
-
-4b173a6b7c511d82ede3458de985188ee79cabc9	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/clean-stack","integrity":"sha512-h+J6s4mi0dk0XDtGqnmy9QemTw53CtIeXlNwxUqLBm80wFBpcPcJomEhPTdaGt38lVYzOafmznbOlQTjOV8/ow==","time":1760842650153,"size":25610,"metadata":{"time":1760842650135,"url":"https://registry.npmjs.org/clean-stack","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Mon, 15 Sep 2025 22:12:57 GMT"},"options":{"compress":true}}}

@@ -1,2 +1,0 @@
-
-60490a8f4a137113e543ab5d7b7d6145785eda87	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/is-wsl","integrity":"sha512-WSRUdsHecuCFzdWrFWFgR2pDANOahglr661zNGCzDwGb43ARofnlHz8snsa786ES7KarS2oXDihZL9s+PNYbMg==","time":1760842641819,"size":8848,"metadata":{"time":1760842641798,"url":"https://registry.npmjs.org/is-wsl","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Mon, 25 Sep 2023 05:58:43 GMT"},"options":{"compress":true}}}

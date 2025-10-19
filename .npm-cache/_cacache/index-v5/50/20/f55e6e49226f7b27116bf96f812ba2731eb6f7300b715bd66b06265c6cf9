@@ -1,2 +1,0 @@
-
-5c648cb45ff7eaab6e9919ade08ea18fa226494d	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/spdx-correct","integrity":"sha512-sbU7ebkUqB95Xp0I+9ZvNtmTnAQZsHaYZw15+UDba4lQVWOWxhrhudf9cpaRjla+Y+rBaJenOZBdM+IrJTwI1w==","time":1760842649316,"size":17118,"metadata":{"time":1760842649300,"url":"https://registry.npmjs.org/spdx-correct","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Tue, 07 Mar 2023 01:53:20 GMT"},"options":{"compress":true}}}

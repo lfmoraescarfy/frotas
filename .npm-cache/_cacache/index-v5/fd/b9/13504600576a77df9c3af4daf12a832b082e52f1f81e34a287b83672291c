@@ -1,2 +1,0 @@
-
-8151feb0cf9355614af1e30cd815cc987d65c737	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/tuf-js","integrity":"sha512-fKtyLYMdOrATdZTW8p14gry+33DFBmgyOCVAP9Md3z+r/bfHJdcfFi0F6pyMuTC42FeBSP+6bRhqR9UchKSpTQ==","time":1760842650372,"size":37326,"metadata":{"time":1760842650361,"url":"https://registry.npmjs.org/tuf-js","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Fri, 25 Jul 2025 17:45:19 GMT"},"options":{"compress":true}}}

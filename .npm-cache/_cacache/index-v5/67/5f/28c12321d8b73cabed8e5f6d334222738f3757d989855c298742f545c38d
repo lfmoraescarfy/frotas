@@ -1,2 +1,0 @@
-
-bf78d0674450738971cacfb5dbc0f3f6c6fbf491	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/semver","integrity":"sha512-IcS68yv+blhCIwWIgj/mVsN2L5xdyjIJLeTLjMvw6WLh9C0EylCa1dX56sfGm9AypWgUEmmBvxUP6+N8/b3Qjg==","time":1760842638641,"size":95618,"metadata":{"time":1760842638592,"url":"https://registry.npmjs.org/semver","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Tue, 07 Oct 2025 18:00:53 GMT"},"options":{"compress":true}}}

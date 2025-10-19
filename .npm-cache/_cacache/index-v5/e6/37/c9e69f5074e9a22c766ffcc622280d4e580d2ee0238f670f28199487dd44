@@ -1,2 +1,0 @@
-
-c15009145ade4ebbf0abe7a6722bdd8dc381c10b	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/supports-color","integrity":"sha512-RR3WkYgJBpHVbNLYLbMgTu2SCO3wbIlfFeylX0nFZ3uKwTPoMpeSodeHeRLumuczdhclgSbwWIAU0q87BLPnpQ==","time":1760842644894,"size":54084,"metadata":{"time":1760842644865,"url":"https://registry.npmjs.org/supports-color","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Mon, 08 Sep 2025 17:16:24 GMT"},"options":{"compress":true}}}

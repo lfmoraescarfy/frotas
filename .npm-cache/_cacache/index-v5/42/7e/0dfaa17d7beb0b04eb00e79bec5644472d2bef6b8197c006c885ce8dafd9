@@ -1,2 +1,0 @@
-
-bb411a69262aadf10792f388d3d8e7662d388115	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/promise-inflight","integrity":"sha512-C6Knt+RRqkPaAcJ21b6nCijwTfE4NeY2VDsCf7WT7rouDfQgMFP3pUDQj6uA7TnSUEn8LNeNJUxPAydiPcABEw==","time":1760842645200,"size":1132,"metadata":{"time":1760842645171,"url":"https://registry.npmjs.org/promise-inflight","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Fri, 24 Jun 2022 18:46:02 GMT"},"options":{"compress":true}}}
