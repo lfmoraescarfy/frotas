@@ -1,0 +1,2 @@
+
+39e3a3452efbd169dc73268a5830c89c0ca60915	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@ng-select%2fng-select","integrity":"sha512-1fMaLA+1/XA+M6m7XX0m5xIU/tw6BIKomsq6ihJVMOv2iT52f9DJSmbY3hcN3UtTjHfQVIPOHIsK2AvDMYzCaA==","time":1760843578345,"size":871101,"metadata":{"time":1760843578309,"url":"https://registry.npmjs.org/@ng-select%2fng-select","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Fri, 17 Oct 2025 20:51:19 GMT"},"options":{"compress":true}}}

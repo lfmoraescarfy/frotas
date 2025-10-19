@@ -1,0 +1,2 @@
+
+ffcedb604f68563360c57a2be5c960b500c5223e	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@lordicon%2felement","integrity":"sha512-RhFavBsnhh+bKw/Jz7CBR2LibBYog94kwYVTDlGqLhCrgDW8ph0KJHzh+Yim/rebBtnMTNdQ7n7LFfcGuFdISw==","time":1760843575913,"size":50424,"metadata":{"time":1760843575905,"url":"https://registry.npmjs.org/@lordicon%2felement","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Fri, 18 Jul 2025 13:36:33 GMT"},"options":{"compress":true}}}

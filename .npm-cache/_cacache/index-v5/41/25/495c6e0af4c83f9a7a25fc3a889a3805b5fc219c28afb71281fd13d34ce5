@@ -1,0 +1,2 @@
+
+80d8a908f15bf321768917ab6df710df413aa50c	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@types%2fjasmine","integrity":"sha512-aX2aHCl74cl8e1XkmnGQMSbXiEsQLvOPcu7iT4xHqV1LkmdXjKe/4vSFGVLJj9AdShSDdrgUidXzw7aiLcUCQQ==","time":1760843586366,"size":502649,"metadata":{"time":1760843586337,"url":"https://registry.npmjs.org/@types%2fjasmine","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Fri, 17 Oct 2025 20:34:44 GMT"},"options":{"compress":true}}}

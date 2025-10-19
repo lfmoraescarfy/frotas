@@ -1413,3 +1413,103 @@
 1412 silly packumentCache full:https://registry.npmjs.org/@fullcalendar%2fcore set size:undefined disposed:false
 1413 silly fetch manifest @fullcalendar/daygrid@^6.1.10
 1414 silly packumentCache full:https://registry.npmjs.org/@fullcalendar%2fdaygrid cache-miss
+1415 http fetch GET 200 https://registry.npmjs.org/@fullcalendar%2fdaygrid 4620ms (cache miss)
+1416 silly packumentCache full:https://registry.npmjs.org/@fullcalendar%2fdaygrid set size:undefined disposed:false
+1417 silly fetch manifest @fullcalendar/interaction@^6.1.10
+1418 silly packumentCache full:https://registry.npmjs.org/@fullcalendar%2finteraction cache-miss
+1419 http fetch GET 200 https://registry.npmjs.org/@fullcalendar%2finteraction 883ms (cache miss)
+1420 silly packumentCache full:https://registry.npmjs.org/@fullcalendar%2finteraction set size:undefined disposed:false
+1421 silly fetch manifest @fullcalendar/list@^6.1.10
+1422 silly packumentCache full:https://registry.npmjs.org/@fullcalendar%2flist cache-miss
+1423 http fetch GET 200 https://registry.npmjs.org/@fullcalendar%2flist 887ms (cache miss)
+1424 silly packumentCache full:https://registry.npmjs.org/@fullcalendar%2flist set size:undefined disposed:false
+1425 silly fetch manifest @fullcalendar/moment-timezone@^6.1.15
+1426 silly packumentCache full:https://registry.npmjs.org/@fullcalendar%2fmoment-timezone cache-miss
+1427 http fetch GET 200 https://registry.npmjs.org/@fullcalendar%2fmoment-timezone 1572ms (cache miss)
+1428 silly packumentCache full:https://registry.npmjs.org/@fullcalendar%2fmoment-timezone set size:undefined disposed:false
+1429 silly fetch manifest @fullcalendar/multimonth@^6.1.10
+1430 silly packumentCache full:https://registry.npmjs.org/@fullcalendar%2fmultimonth cache-miss
+1431 http fetch GET 200 https://registry.npmjs.org/@fullcalendar%2fmultimonth 1437ms (cache miss)
+1432 silly packumentCache full:https://registry.npmjs.org/@fullcalendar%2fmultimonth set size:undefined disposed:false
+1433 silly fetch manifest @fullcalendar/timegrid@^6.1.10
+1434 silly packumentCache full:https://registry.npmjs.org/@fullcalendar%2ftimegrid cache-miss
+1435 http fetch GET 200 https://registry.npmjs.org/@fullcalendar%2ftimegrid 884ms (cache miss)
+1436 silly packumentCache full:https://registry.npmjs.org/@fullcalendar%2ftimegrid set size:undefined disposed:false
+1437 silly fetch manifest @lordicon/element@^1.4.2
+1438 silly packumentCache full:https://registry.npmjs.org/@lordicon%2felement cache-miss
+1439 http fetch GET 200 https://registry.npmjs.org/@lordicon%2felement 1577ms (cache miss)
+1440 silly packumentCache full:https://registry.npmjs.org/@lordicon%2felement set size:undefined disposed:false
+1441 silly fetch manifest @ng-bootstrap/ng-bootstrap@16.0.0
+1442 silly packumentCache full:https://registry.npmjs.org/@ng-bootstrap%2fng-bootstrap cache-miss
+1443 http fetch GET 200 https://registry.npmjs.org/@ng-bootstrap%2fng-bootstrap 788ms (cache miss)
+1444 silly packumentCache full:https://registry.npmjs.org/@ng-bootstrap%2fng-bootstrap set size:undefined disposed:false
+1445 silly fetch manifest @ng-select/ng-select@^12.0.4
+1446 silly packumentCache full:https://registry.npmjs.org/@ng-select%2fng-select cache-miss
+1447 http fetch GET 200 https://registry.npmjs.org/@ng-select%2fng-select 1613ms (cache miss)
+1448 silly packumentCache full:https://registry.npmjs.org/@ng-select%2fng-select set size:undefined disposed:false
+1449 silly fetch manifest @ngrx/effects@^17.0.1
+1450 silly packumentCache full:https://registry.npmjs.org/@ngrx%2feffects cache-miss
+1451 http fetch GET 200 https://registry.npmjs.org/@ngrx%2feffects 1785ms (cache miss)
+1452 silly packumentCache full:https://registry.npmjs.org/@ngrx%2feffects set size:undefined disposed:false
+1453 silly fetch manifest @ngrx/store@^17.0.1
+1454 silly packumentCache full:https://registry.npmjs.org/@ngrx%2fstore cache-miss
+1455 http fetch GET 200 https://registry.npmjs.org/@ngrx%2fstore 966ms (cache miss)
+1456 silly packumentCache full:https://registry.npmjs.org/@ngrx%2fstore set size:undefined disposed:false
+1457 silly fetch manifest @ngrx/store-devtools@^17.0.1
+1458 silly packumentCache full:https://registry.npmjs.org/@ngrx%2fstore-devtools cache-miss
+1459 http fetch GET 200 https://registry.npmjs.org/@ngrx%2fstore-devtools 1630ms (cache miss)
+1460 silly packumentCache full:https://registry.npmjs.org/@ngrx%2fstore-devtools set size:undefined disposed:false
+1461 silly fetch manifest @ngx-translate/core@^15.0.0
+1462 silly packumentCache full:https://registry.npmjs.org/@ngx-translate%2fcore cache-miss
+1463 http fetch GET 200 https://registry.npmjs.org/@ngx-translate%2fcore 862ms (cache miss)
+1464 silly packumentCache full:https://registry.npmjs.org/@ngx-translate%2fcore set size:undefined disposed:false
+1465 silly fetch manifest @ngx-translate/http-loader@^8.0.0
+1466 silly packumentCache full:https://registry.npmjs.org/@ngx-translate%2fhttp-loader cache-miss
+1467 http fetch GET 200 https://registry.npmjs.org/@ngx-translate%2fhttp-loader 849ms (cache miss)
+1468 silly packumentCache full:https://registry.npmjs.org/@ngx-translate%2fhttp-loader set size:undefined disposed:false
+1469 silly fetch manifest @popperjs/core@^2.11.8
+1470 silly packumentCache full:https://registry.npmjs.org/@popperjs%2fcore cache-miss
+1471 http fetch GET 200 https://registry.npmjs.org/@popperjs%2fcore 137ms (cache miss)
+1472 silly packumentCache full:https://registry.npmjs.org/@popperjs%2fcore set size:undefined disposed:false
+1473 silly fetch manifest @types/google.maps@^3.54.10
+1474 silly packumentCache full:https://registry.npmjs.org/@types%2fgoogle.maps cache-miss
+1475 http fetch GET 200 https://registry.npmjs.org/@types%2fgoogle.maps 801ms (cache miss)
+1476 silly packumentCache full:https://registry.npmjs.org/@types%2fgoogle.maps set size:undefined disposed:false
+1477 silly fetch manifest @types/jasmine@^5.1.4
+1478 silly packumentCache full:https://registry.npmjs.org/@types%2fjasmine cache-miss
+1479 http fetch GET 200 https://registry.npmjs.org/@types%2fjasmine 810ms (cache miss)
+1480 silly packumentCache full:https://registry.npmjs.org/@types%2fjasmine set size:undefined disposed:false
+1481 silly fetch manifest @types/prismjs@^1.26.3
+1482 silly packumentCache full:https://registry.npmjs.org/@types%2fprismjs cache-miss
+1483 http fetch GET 200 https://registry.npmjs.org/@types%2fprismjs 1377ms (cache miss)
+1484 silly packumentCache full:https://registry.npmjs.org/@types%2fprismjs set size:undefined disposed:false
+1485 silly fetch manifest angular-feather@^6.5.0
+1486 silly packumentCache full:https://registry.npmjs.org/angular-feather cache-miss
+1487 http fetch GET 200 https://registry.npmjs.org/angular-feather 28ms (cache miss)
+1488 silly packumentCache full:https://registry.npmjs.org/angular-feather set size:36633 disposed:false
+1489 silly fetch manifest angular-ng-autocomplete@^2.0.12
+1490 silly packumentCache full:https://registry.npmjs.org/angular-ng-autocomplete cache-miss
+1491 http fetch GET 200 https://registry.npmjs.org/angular-ng-autocomplete 59ms (cache miss)
+1492 silly packumentCache full:https://registry.npmjs.org/angular-ng-autocomplete set size:65268 disposed:false
+1493 silly fetch manifest angular-ng-stepper@^2.0.0
+1494 silly packumentCache full:https://registry.npmjs.org/angular-ng-stepper cache-miss
+1495 http fetch GET 200 https://registry.npmjs.org/angular-ng-stepper 46ms (cache miss)
+1496 silly packumentCache full:https://registry.npmjs.org/angular-ng-stepper set size:12787 disposed:false
+1497 silly fetch manifest angularx-flatpickr@^7.3.0
+1498 silly packumentCache full:https://registry.npmjs.org/angularx-flatpickr cache-miss
+1499 http fetch GET 200 https://registry.npmjs.org/angularx-flatpickr 28ms (cache miss)
+1500 silly packumentCache full:https://registry.npmjs.org/angularx-flatpickr set size:70633 disposed:false
+1501 silly fetch manifest apexcharts@^3.44.0
+1502 silly packumentCache full:https://registry.npmjs.org/apexcharts cache-miss
+1503 http fetch GET 200 https://registry.npmjs.org/apexcharts 62ms (cache miss)
+1504 silly packumentCache full:https://registry.npmjs.org/apexcharts set size:613506 disposed:false
+1505 silly fetch manifest axios@^1.6.2
+1506 silly packumentCache full:https://registry.npmjs.org/axios cache-miss
+1507 http fetch GET 200 https://registry.npmjs.org/axios 54ms (cache miss)
+1508 silly packumentCache full:https://registry.npmjs.org/axios set size:255651 disposed:false
+1509 silly fetch manifest bootstrap@5.3.2
+1510 silly packumentCache full:https://registry.npmjs.org/bootstrap cache-miss
+1511 http fetch GET 200 https://registry.npmjs.org/bootstrap 48ms (cache miss)
+1512 silly packumentCache full:https://registry.npmjs.org/bootstrap set size:151927 disposed:false
+1513 silly fetch manifest browserslist@^4.22.1
+1514 silly packumentCache full:https://registry.npmjs.org/browserslist cache-miss
