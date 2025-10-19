@@ -1,2 +1,0 @@
-
-5c1375021138717f371740c67ba9458f33b59f37	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@esbuild%2fopenbsd-x64","integrity":"sha512-Ld0OQem77hB+CR0XexE+LQNJY2heCk9BTbVboWyRb+8LSxINBcEn8s8I8n34SSxBIep90baDspQXJoRMONBCcA==","time":1760843192505,"size":179058,"metadata":{"time":1760843192410,"url":"https://registry.npmjs.org/@esbuild%2fopenbsd-x64","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Wed, 15 Oct 2025 02:11:42 GMT"},"options":{"compress":true}}}

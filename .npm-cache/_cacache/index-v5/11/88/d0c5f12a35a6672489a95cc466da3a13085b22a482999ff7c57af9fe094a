@@ -1,2 +1,0 @@
-
-6521ce15245dd7b1a77336726ecf0885f33897ff	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/spdy-transport","integrity":"sha512-tmyBsiBRblfmGUT3bp5147XlVOpOAbhfdoAtLdD1uIvZD9sQb9lfUbqdXs2jMppL5GynCm/O/Vjs6Lh0BvGndg==","time":1760843273143,"size":37906,"metadata":{"time":1760843273137,"url":"https://registry.npmjs.org/spdy-transport","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Sun, 26 Jun 2022 22:41:02 GMT"},"options":{"compress":true}}}

@@ -1,2 +1,0 @@
-
-f2a085a5092602f9d3caa897cac83d4a666765bd	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/human-signals","integrity":"sha512-RsxI3b7NCAANgn5ALiUVPybXYPIpES3DADAV/mWfnnuu/ey56yXRfpMiHOq9iyIrIcdAzKeqaka/OGsNA8jd2A==","time":1760843277584,"size":47322,"metadata":{"time":1760843277569,"url":"https://registry.npmjs.org/human-signals","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Sat, 29 Mar 2025 02:43:48 GMT"},"options":{"compress":true}}}

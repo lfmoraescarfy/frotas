@@ -1,2 +1,0 @@
-
-b35b6de8160282694175c293c435d30ca9e14a6f	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/object-inspect","integrity":"sha512-KtG6b0zSct2JjjgW0BTAtAYKBn3FHvj4xATrroffggc67YGNN1H4l3nwc+4EY2WZzcKaQe/LM7g5DyjMEgpb8Q==","time":1760843280281,"size":101912,"metadata":{"time":1760843280265,"url":"https://registry.npmjs.org/object-inspect","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Wed, 05 Feb 2025 01:26:12 GMT"},"options":{"compress":true}}}

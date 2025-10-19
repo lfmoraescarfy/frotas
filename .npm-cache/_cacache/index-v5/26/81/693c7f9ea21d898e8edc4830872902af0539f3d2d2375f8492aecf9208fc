@@ -1,2 +1,0 @@
-
-9190154443b0e26065a7570ad0221e59a4b27dc1	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/nice-napi","integrity":"sha512-xDXPU/B5IhdCC1ELF1KJAdeAD05JgKigbz8TJxcv327BGYeDN1sFg3uBGHwDxs72kgaxJSrFIxytSx+LOnD4FA==","time":1760843196652,"size":9242,"metadata":{"time":1760843196587,"url":"https://registry.npmjs.org/nice-napi","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Tue, 10 May 2022 21:17:00 GMT"},"options":{"compress":true}}}

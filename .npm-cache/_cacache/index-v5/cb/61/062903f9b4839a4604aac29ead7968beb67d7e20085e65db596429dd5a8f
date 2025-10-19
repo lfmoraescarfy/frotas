@@ -1,2 +1,0 @@
-
-210e0f8a97dc16c202f36718a1a4c43d4a32fadf	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/neo-async","integrity":"sha512-ZNUC88xcbr3HQ5AHazJXYYlFbtFCAcvzHEthali7AYqoho9Sz4gnVN9TBaAOm/Q5mhoU0cEtjGxob9bsc9Bb9A==","time":1760843196108,"size":71436,"metadata":{"time":1760843196081,"url":"https://registry.npmjs.org/neo-async","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Tue, 21 Jun 2022 00:04:11 GMT"},"options":{"compress":true}}}

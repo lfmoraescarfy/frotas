@@ -1,2 +1,0 @@
-
-d60761f1c321f94a565ab76d78e3b3c9751b0570	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/angular-feather","integrity":"sha512-/uOGO1CMDBjLB0fg1V+rXtuVK9fWpUDVkNDCFSimPJ3DgyKtLrG0Nok1ncJ5sUYU3FLCdWO1dihgTVG3BmeDFg==","time":1760843587795,"size":36633,"metadata":{"time":1760843587788,"url":"https://registry.npmjs.org/angular-feather","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Wed, 24 Jan 2024 01:16:37 GMT"},"options":{"compress":true}}}

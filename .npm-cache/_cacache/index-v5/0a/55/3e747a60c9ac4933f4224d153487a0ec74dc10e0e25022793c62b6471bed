@@ -1,2 +1,0 @@
-
-f8545b1a0878bd4b26df04ab03a30b0d5628156b	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/lines-and-columns","integrity":"sha512-MCqUDCkmGPaTeK+ZtpSupUjx66Deql50oORcsli0NxSlYuUrGbVOo9L2eyu9CGkG6Atu55fhY0LH7gJOtDNI5w==","time":1760843254599,"size":73796,"metadata":{"time":1760843254475,"url":"https://registry.npmjs.org/lines-and-columns","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Tue, 07 Nov 2023 01:41:54 GMT"},"options":{"compress":true}}}

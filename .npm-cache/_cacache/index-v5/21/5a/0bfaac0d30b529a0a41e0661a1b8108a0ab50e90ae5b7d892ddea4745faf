@@ -1,2 +1,0 @@
-
-6e3d90f92e3a067750aecc6f939b0b9935a2b7d2	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/fraction.js","integrity":"sha512-hfFfU+c8nTWt5twLMNrkKe/9vgkWjeAxo65ZPOIvZh0h9fONUAXNDDwY4E46dxFA3YzAlectVuPByDy86uWYrg==","time":1760843190454,"size":54607,"metadata":{"time":1760843190411,"url":"https://registry.npmjs.org/fraction.js","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Fri, 22 Aug 2025 11:44:47 GMT"},"options":{"compress":true}}}

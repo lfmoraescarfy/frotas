@@ -1,2 +1,0 @@
-
-35c2d27b376f94581944bde3b415b754b87e8b25	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/wbuf","integrity":"sha512-tji4A3zoF7beMx0GUB87oYIpHZmZWb/eRk/7jYK/TkurOsbEqx+B3zLuhjjFx+OAOHf3eCdkw3xE4CN3GRR3fQ==","time":1760843281416,"size":7700,"metadata":{"time":1760843281400,"url":"https://registry.npmjs.org/wbuf","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Tue, 28 Jun 2022 22:18:43 GMT"},"options":{"compress":true}}}

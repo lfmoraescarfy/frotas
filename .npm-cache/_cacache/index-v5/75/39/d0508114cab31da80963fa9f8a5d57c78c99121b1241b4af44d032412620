@@ -1,2 +1,0 @@
-
-e3a9beb914163ecd0e1c3025d1370c92d1fb6218	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/is-glob","integrity":"sha512-13AFhbjv1C/4H38/2an72zPihowqMm1YKa2xrLFdyiyLg1I3NOp47Mabfyna8d0+TfYb0VkzXi75PqI/X+EVRg==","time":1760843192775,"size":11060,"metadata":{"time":1760843192724,"url":"https://registry.npmjs.org/is-glob","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Thu, 22 Jun 2023 16:32:27 GMT"},"options":{"compress":true}}}

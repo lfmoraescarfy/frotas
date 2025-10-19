@@ -1,0 +1,2 @@
+
+c4a6de35ffd4529631c756963cf6e3315cab9728	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@yarnpkg%2flockfile","integrity":"sha512-1mLBmZiNhKRCh2loPdvZIYIkG6l9F/24PnuFIqlfC+j4Dfee2tiTK7/ANT+ikmgHoscvuJxHab3o2aQXmM08SA==","time":1760842639449,"size":9081,"metadata":{"time":1760842639438,"url":"https://registry.npmjs.org/@yarnpkg%2flockfile","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Tue, 16 Apr 2024 05:07:09 GMT"},"options":{"compress":true}}}

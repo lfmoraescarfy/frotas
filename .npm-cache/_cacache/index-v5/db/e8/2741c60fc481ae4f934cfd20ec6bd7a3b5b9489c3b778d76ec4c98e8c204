@@ -1,2 +1,0 @@
-
-41d214456191e47b4f0b832d72953343c1fbf1d8	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/node-addon-api","integrity":"sha512-FF474kuH19B+k43VskkjvDpkvMjUb5fStcpWC6Idi0CocRZjDUlNV2+NwmaB8wIUlPvrSxMHct55qoDJ6cYfRA==","time":1760843253381,"size":328136,"metadata":{"time":1760843253349,"url":"https://registry.npmjs.org/node-addon-api","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Mon, 14 Jul 2025 20:05:55 GMT"},"options":{"compress":true}}}

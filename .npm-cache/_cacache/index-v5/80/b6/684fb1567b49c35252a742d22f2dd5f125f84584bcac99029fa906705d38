@@ -1,2 +1,0 @@
-
-5ff764a7fb9fc4280d2065b294e3811d0f0cf330	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/apexcharts","integrity":"sha512-1Dryyfdi1Uf2oA7CPDtmBzseThaU9UBzUuEcSHngXPv9wUPG2rz2tt3Cj5Bittxbej3fMgvO4OJoDZCLJTAAaA==","time":1760843588027,"size":613506,"metadata":{"time":1760843588007,"url":"https://registry.npmjs.org/apexcharts","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Sun, 07 Sep 2025 10:51:56 GMT"},"options":{"compress":true}}}

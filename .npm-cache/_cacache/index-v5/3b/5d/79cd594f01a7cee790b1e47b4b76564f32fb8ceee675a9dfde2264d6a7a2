@@ -1,2 +1,0 @@
-
-333bf47114241e5bccbb22c636f9827733cf2f27	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/faye-websocket","integrity":"sha512-aQaVkSxLvv8R2N7dwu5rOVebEHoplK1f6jeawbuVCx8lENJmnoQcaSrZy77eu6ElTYlztgDC8JtnDhy0oe78LA==","time":1760843273732,"size":45682,"metadata":{"time":1760843273718,"url":"https://registry.npmjs.org/faye-websocket","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Fri, 17 Jun 2022 23:46:14 GMT"},"options":{"compress":true}}}

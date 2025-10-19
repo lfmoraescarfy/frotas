@@ -1,2 +1,0 @@
-
-2132c180df94fc2015389311e540358843049338	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/tapable","integrity":"sha512-s+ZIIy7F0lpk50RfGDtYKxTaIoS1jhp02HDvdUuQs2Z1nxDrGdHuADYXqPsRaclA/efuB8fVu3pp6nyWR1B5/g==","time":1760843194694,"size":53574,"metadata":{"time":1760843194682,"url":"https://registry.npmjs.org/tapable","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Thu, 02 Oct 2025 11:47:33 GMT"},"options":{"compress":true}}}

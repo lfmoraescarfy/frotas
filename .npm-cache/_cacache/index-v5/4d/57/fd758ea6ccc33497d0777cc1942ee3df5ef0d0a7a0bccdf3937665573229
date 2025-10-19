@@ -1,2 +1,0 @@
-
-3a9b86476e34e7b0240ef6e14c18c0f674b9236e	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/websocket-driver","integrity":"sha512-7PkH6445svZqxdQVc3k5dLac8ud8fv11u+OVlVgNHqf0A1YURJIGhXCZTPxmmXKDLgYliNOTHQeJXjDsmntBOw==","time":1760843273694,"size":55869,"metadata":{"time":1760843273685,"url":"https://registry.npmjs.org/websocket-driver","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Wed, 29 Jun 2022 00:28:12 GMT"},"options":{"compress":true}}}

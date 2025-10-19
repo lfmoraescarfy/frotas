@@ -1,2 +1,0 @@
-
-57474c2e736c1c33480d5b7f54fda7ed199fd228	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@ngx-translate%2fcore","integrity":"sha512-AcZV+1tdAf4oBwuq0g2HQee+n1SBrYLpKBVlm4DuGAhym4H2VUBWTZY1gQlhL7t1EXeSEDA4NfUzCVI5rFDVwQ==","time":1760843583703,"size":85934,"metadata":{"time":1760843583690,"url":"https://registry.npmjs.org/@ngx-translate%2fcore","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Mon, 28 Jul 2025 17:33:05 GMT"},"options":{"compress":true}}}

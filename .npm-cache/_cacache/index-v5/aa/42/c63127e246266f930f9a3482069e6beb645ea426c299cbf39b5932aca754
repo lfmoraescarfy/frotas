@@ -1,2 +1,0 @@
-
-13f96370e33ecac0386d6d1087ad07074c795f85	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@leichtgewicht%2fip-codec","integrity":"sha512-F9b30bRxu7wl8oup/NdcK7FVtkyfh6c85PnB1DmAHHcPNMdBjxwT5EF2d2Lr4WnY3UyRixo9mTId3q3CnQNNGA==","time":1760843279416,"size":20495,"metadata":{"time":1760843279408,"url":"https://registry.npmjs.org/@leichtgewicht%2fip-codec","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Wed, 27 Mar 2024 04:42:17 GMT"},"options":{"compress":true}}}

@@ -1,2 +1,0 @@
-
-e4d3c01a94c25e7580c82c0242ce280c3ee59dc0	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@esbuild%2faix-ppc64","integrity":"sha512-HmYZZz89/KU2sw8kRMwDyOulTSPvQQSJHzhJJuaG/keJ8f4MlDjMpf1DdHOwIE6vTRzTXCsmeAK51BmhgntaFA==","time":1760843191759,"size":44539,"metadata":{"time":1760843191714,"url":"https://registry.npmjs.org/@esbuild%2faix-ppc64","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Wed, 15 Oct 2025 02:13:24 GMT"},"options":{"compress":true}}}

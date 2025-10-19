@@ -1,2 +1,0 @@
-
-c14a8c296f0c202ea8a5fd0bf260856708ddda8c	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@fullcalendar%2fangular","integrity":"sha512-87vkMugE5EvwG5xZsVacCgJGTP/Hil5IA2bJMEyG87D5w1RN8uZHlZexwrOiD3N0jxXocXg0fr5T3OFtSeFgNA==","time":1760843562460,"size":192525,"metadata":{"time":1760843562289,"url":"https://registry.npmjs.org/@fullcalendar%2fangular","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Sun, 10 Aug 2025 01:59:05 GMT"},"options":{"compress":true}}}

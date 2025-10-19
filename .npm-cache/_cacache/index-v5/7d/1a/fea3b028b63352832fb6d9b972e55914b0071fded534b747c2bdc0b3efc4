@@ -1,2 +1,0 @@
-
-899c543c1251781e02e8ca1867b11f63cd8edcf0	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/es-module-lexer","integrity":"sha512-fnWDoD6tifDQdQ2bdnNv4nHvTEyMarn47cwfj6ULN2sDKoorAZ/vXhT0XaV72ic8YTKFNqKhFu+0i9e5NACdVQ==","time":1760843197253,"size":102877,"metadata":{"time":1760843197170,"url":"https://registry.npmjs.org/es-module-lexer","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Tue, 22 Apr 2025 22:22:10 GMT"},"options":{"compress":true}}}

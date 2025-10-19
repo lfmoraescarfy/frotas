@@ -1,2 +1,0 @@
-
-084d301867d0cd4abc2ca102316a2cd0086f48b1	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@ngrx%2fstore","integrity":"sha512-eQNtq0auamFpV92uIl+DGrRh9vu0i3y6hzSt6+jJ3mUEPTrtY3p/z/jIZve2hckr3VmeBw8WbEYmXu98/lA81A==","time":1760843581137,"size":448776,"metadata":{"time":1760843581113,"url":"https://registry.npmjs.org/@ngrx%2fstore","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Mon, 25 Aug 2025 17:48:00 GMT"},"options":{"compress":true}}}

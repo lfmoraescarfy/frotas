@@ -1,2 +1,0 @@
-
-6d00d1a462f167b5f023df4be0cce0dd1e558a4c	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@babel%2ftraverse","integrity":"sha512-WzeBAEnEBQAkQQuP0O52k1IzZeeKqqQ+CiGEV9RwQXP2LCWCOqPk3WqtgI88rVpm48ajwU/73WUdS0150oWy3g==","time":1760843182316,"size":531401,"metadata":{"time":1760843182208,"url":"https://registry.npmjs.org/@babel%2ftraverse","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Fri, 05 Sep 2025 15:06:27 GMT"},"options":{"compress":true}}}

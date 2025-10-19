@@ -1,2 +1,0 @@
-
-8f3c4c1d36f1c5fbb2b844df7e5dd65ce1f76cfe	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@xtuc%2fieee754","integrity":"sha512-Dkxz5bKELbpT95n+B5Ovli0Xht9lYUZ7muckwfr7wdMiw+bZhPSJ4C6HjFm5E/mpQeocOwAMFRHF+4qBnn+Ehw==","time":1760843270125,"size":5495,"metadata":{"time":1760843270116,"url":"https://registry.npmjs.org/@xtuc%2fieee754","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Mon, 11 Apr 2022 10:47:50 GMT"},"options":{"compress":true}}}

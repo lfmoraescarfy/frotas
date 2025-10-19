@@ -1,2 +1,0 @@
-
-9bca3986fb398a7692e4a86071438a22694432f3	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/jest-worker","integrity":"sha512-aTLUF5G9UD7GonJ3fnQAe8CUoSzDdHS5pBsGiL9GGz3QauI08JZjSDDq1Rgg2zQyaMz+8AoK2lGB4Rse/C3s8g==","time":1760843267056,"size":250441,"metadata":{"time":1760843267031,"url":"https://registry.npmjs.org/jest-worker","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Sun, 28 Sep 2025 07:32:48 GMT"},"options":{"compress":true}}}

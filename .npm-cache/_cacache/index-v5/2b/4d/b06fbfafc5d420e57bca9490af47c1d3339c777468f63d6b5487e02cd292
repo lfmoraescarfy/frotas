@@ -1,2 +1,0 @@
-
-a2fcceac693035fad7d81dacca024cb4480ad1e4	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/nanoid","integrity":"sha512-cnXfbiampTUnG9wTM21UA8mygvahwn25+H6Fn+E9pQ4UID4Ba/XNOgt3SQV26cQAaAXmpu+fWNg3SX4zYOgRMA==","time":1760843195832,"size":144434,"metadata":{"time":1760843195824,"url":"https://registry.npmjs.org/nanoid","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Mon, 22 Sep 2025 09:45:54 GMT"},"options":{"compress":true}}}

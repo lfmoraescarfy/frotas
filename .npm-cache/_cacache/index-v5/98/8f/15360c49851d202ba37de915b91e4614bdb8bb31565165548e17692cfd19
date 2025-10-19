@@ -1,2 +1,0 @@
-
-197b6fb2734957666f5136d8171ae58d6eb7ffb9	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/cosmiconfig","integrity":"sha512-bcD7C7uJuCTZZH1E2MP9ZS/nScYPJ9zzjFHBU1KIkXqTSR658E8DMqVfKhnQb05y5ntHXWAOhNxDj4G1YWofjQ==","time":1760843195918,"size":81973,"metadata":{"time":1760843195907,"url":"https://registry.npmjs.org/cosmiconfig","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Sun, 26 Nov 2023 12:36:52 GMT"},"options":{"compress":true}}}

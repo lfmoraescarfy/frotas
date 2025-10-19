@@ -1,2 +1,0 @@
-
-495916e220300c23e533b3ce385dc1ff3fe16e10	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@esbuild%2fdarwin-x64","integrity":"sha512-ztTe/d9lHLyKlkm/W9dyF4fu2/1IeNfv6HOP95XUn2vnjpv/0wK04uqkxeWBi7sOfzz0jxEgiwu/bETjlCYrMg==","time":1760843192099,"size":178275,"metadata":{"time":1760843192034,"url":"https://registry.npmjs.org/@esbuild%2fdarwin-x64","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Wed, 15 Oct 2025 02:11:59 GMT"},"options":{"compress":true}}}

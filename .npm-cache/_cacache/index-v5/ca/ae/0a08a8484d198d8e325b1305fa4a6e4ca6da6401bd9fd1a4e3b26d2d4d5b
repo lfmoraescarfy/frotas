@@ -1,2 +1,0 @@
-
-37427efc6a5b061b8b8833fffba25c70c8d0f04a	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/is-plain-object","integrity":"sha512-QmrkcqK8ZO5wAT4ayf/1PrRgMr7ZJR8bLPqnELK5K341eA1mQAro4ClawVLYmx1uBmsMbajY6MmxuFTq4VBXlg==","time":1760843283819,"size":47016,"metadata":{"time":1760843283758,"url":"https://registry.npmjs.org/is-plain-object","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Wed, 12 Jul 2023 19:12:33 GMT"},"options":{"compress":true}}}

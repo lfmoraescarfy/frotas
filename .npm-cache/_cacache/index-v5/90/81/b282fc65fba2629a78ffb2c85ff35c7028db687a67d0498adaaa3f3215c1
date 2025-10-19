@@ -1,2 +1,0 @@
-
-b9cbb01e08a505fdff38a348f6ca133507462259	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/depd","integrity":"sha512-hkeJTjMO+fjrX/MEXriK9N/mi0Sm3ewuaD2Xf7wPeP5Z80QalQWyPiUjfkUjTDc53j5JiuJr31cGPb2A0p8kww==","time":1760843272041,"size":40182,"metadata":{"time":1760843272033,"url":"https://registry.npmjs.org/depd","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Wed, 15 Jun 2022 00:47:43 GMT"},"options":{"compress":true}}}

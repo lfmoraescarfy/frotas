@@ -1,2 +1,0 @@
-
-f6f2e93cc2bbcccabd1d413693eedd9d6572d199	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/multicast-dns","integrity":"sha512-/U/exCw4gMeBcO9WhuWzObEnqSFcXFgHNwcfZMlBKtDnPoCDbgQzbEai0zLSqfUB50+GWgm7pO9LmKNDNgQm/w==","time":1760843271256,"size":79318,"metadata":{"time":1760843271196,"url":"https://registry.npmjs.org/multicast-dns","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Mon, 20 Jun 2022 13:32:24 GMT"},"options":{"compress":true}}}

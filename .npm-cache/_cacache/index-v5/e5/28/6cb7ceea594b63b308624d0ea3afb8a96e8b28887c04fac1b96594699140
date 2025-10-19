@@ -1,2 +1,0 @@
-
-d866b6412927b24fe0dab34eeb4fd5d9921bda45	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/binary-extensions","integrity":"sha512-8k9ZR8dXTR0dsZ19NXg/3oG7juZ0fAIhOAjjq92DQ7qRU6Z30zETB2SvYw7+rj4syRBhhodD73AQR71ievfBkQ==","time":1760843258683,"size":51551,"metadata":{"time":1760843258670,"url":"https://registry.npmjs.org/binary-extensions","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Sun, 04 May 2025 07:29:40 GMT"},"options":{"compress":true}}}

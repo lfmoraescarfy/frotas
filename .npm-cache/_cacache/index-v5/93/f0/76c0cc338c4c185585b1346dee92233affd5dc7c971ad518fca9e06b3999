@@ -1,2 +1,0 @@
-
-3b7f3018caefc5d68e37fa7b235bb47f753c7e3a	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/eslint-scope","integrity":"sha512-lcuSraD7mofrxwqVoWLsLLljlm4hyzXbXscwKj4YnAiriThHAxGVDAt7Q0PBfB9CkVAE5YycvRVE6kq/5F8OtA==","time":1760843197108,"size":39854,"metadata":{"time":1760843197043,"url":"https://registry.npmjs.org/eslint-scope","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Tue, 14 Oct 2025 20:27:53 GMT"},"options":{"compress":true}}}

@@ -1,2 +1,0 @@
-
-711eae698b5d3d7d1b82e400d01341cb596d4684	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/rimraf","integrity":"sha512-ThdqhV5FEWkYKLBTP9HrQZnphSTqrbuXVbDVzWwquUKyKJYTZ2yGzfqqSMRayvczGJ38BChAOlgYLUHb0EWUVQ==","time":1760843197844,"size":84486,"metadata":{"time":1760843197831,"url":"https://registry.npmjs.org/rimraf","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Sat, 13 Sep 2025 16:42:36 GMT"},"options":{"compress":true}}}

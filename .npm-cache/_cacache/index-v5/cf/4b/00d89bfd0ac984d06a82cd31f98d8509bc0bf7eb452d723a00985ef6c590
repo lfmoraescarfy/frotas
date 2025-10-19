@@ -1,2 +1,0 @@
-
-bb63632c2b6fe82da8ae46378075b7096e2a3a2a	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/fsevents","integrity":"sha512-Klf4UxS6xy3of86KfXg7DeVG4hewT4gzCjlYeaMqXhp/bZrOguRWDes1FpGv+OhHgRlb2kgYkLYQUbIJUFDvkA==","time":1760843197142,"size":182472,"metadata":{"time":1760843197029,"url":"https://registry.npmjs.org/fsevents","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Wed, 18 Sep 2024 05:34:04 GMT"},"options":{"compress":true}}}

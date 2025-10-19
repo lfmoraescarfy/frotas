@@ -1,2 +1,0 @@
-
-d6e4b0ef195ad2a3f7299bae2696da64671f1701	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@fullcalendar%2ftimegrid","integrity":"sha512-fGUMX+NecHSQYXkQbMIjaPFtlxWUTzKYj85XshEPI+zForYvRR3kxU71TXOTgO/ljQfc062uyRDsdbxTWBgbDQ==","time":1760843574329,"size":178241,"metadata":{"time":1760843574320,"url":"https://registry.npmjs.org/@fullcalendar%2ftimegrid","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Sun, 10 Aug 2025 01:59:17 GMT"},"options":{"compress":true}}}

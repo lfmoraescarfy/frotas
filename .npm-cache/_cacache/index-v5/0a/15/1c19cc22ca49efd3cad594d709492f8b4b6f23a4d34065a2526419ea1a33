@@ -1,2 +1,0 @@
-
-3188a9e4cc47880ee16bc50b3be893c86ca2372a	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@angular%2fcommon","integrity":"sha512-pFM3l3yyNd7NfIe0fUj20LdLMfXIwa8OR2dIgXQc3JuugmobhkApypoibNhF621VVwi1fA6Lrp5FjPT4HEVkJw==","time":1760843542279,"size":2877499,"metadata":{"time":1760843542187,"url":"https://registry.npmjs.org/@angular%2fcommon","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Thu, 16 Oct 2025 20:28:46 GMT"},"options":{"compress":true}}}

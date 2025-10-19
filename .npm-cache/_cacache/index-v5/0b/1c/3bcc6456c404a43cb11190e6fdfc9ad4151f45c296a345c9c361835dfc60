@@ -1,2 +1,0 @@
-
-845cc14a654317c315578e8b9631b0fc7321b5c7	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@babel%2fhelper-globals","integrity":"sha512-r6trInWyv2pOlDoGK7vAWtw4gEiiE1znh/v2YsR5sef64+t8njLzodNYUuQD9fP872z2LvbEfvZJIHF6UH7EUw==","time":1760843204788,"size":6206,"metadata":{"time":1760843204780,"url":"https://registry.npmjs.org/@babel%2fhelper-globals","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Fri, 05 Sep 2025 15:05:39 GMT"},"options":{"compress":true}}}
