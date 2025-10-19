@@ -1298,3 +1298,148 @@
 1297 silly placeDep node_modules/npm-registry-fetch proc-log@4.2.0 OK for: npm-registry-fetch@16.2.1 want: ^4.0.0
 1298 silly fetch manifest jsonparse@^1.3.1
 1299 silly packumentCache full:https://registry.npmjs.org/jsonparse cache-miss
+1300 http fetch GET 200 https://registry.npmjs.org/jsonparse 746ms (cache miss)
+1301 silly packumentCache full:https://registry.npmjs.org/jsonparse set size:6010 disposed:false
+1302 silly placeDep ROOT jsonparse@1.3.1 OK for: minipass-json-stream@1.0.2 want: ^1.3.1
+1303 silly placeDep node_modules/minipass-json-stream minipass@3.3.6 OK for: minipass-json-stream@1.0.2 want: ^3.0.0
+1304 silly placeDep ROOT aggregate-error@3.1.0 OK for: p-map@4.0.0 want: ^3.0.0
+1305 silly fetch manifest clean-stack@^2.0.0
+1306 silly packumentCache full:https://registry.npmjs.org/clean-stack cache-miss
+1307 silly fetch manifest indent-string@^4.0.0
+1308 silly packumentCache full:https://registry.npmjs.org/indent-string cache-miss
+1309 http fetch GET 200 https://registry.npmjs.org/clean-stack 48ms (cache miss)
+1310 silly packumentCache full:https://registry.npmjs.org/clean-stack set size:25610 disposed:false
+1311 http fetch GET 200 https://registry.npmjs.org/indent-string 50ms (cache miss)
+1312 silly packumentCache full:https://registry.npmjs.org/indent-string set size:11999 disposed:false
+1313 silly placeDep ROOT clean-stack@2.2.0 OK for: aggregate-error@3.1.0 want: ^2.0.0
+1314 silly placeDep ROOT indent-string@4.0.0 OK for: aggregate-error@3.1.0 want: ^4.0.0
+1315 silly placeDep ROOT err-code@2.0.3 OK for: promise-retry@2.0.1 want: ^2.0.2
+1316 silly placeDep ROOT retry@0.12.0 OK for: promise-retry@2.0.1 want: ^0.12.0
+1317 silly placeDep ROOT string_decoder@1.3.0 OK for: readable-stream@3.6.2 want: ^1.1.1
+1318 silly placeDep ROOT util-deprecate@1.0.2 OK for: readable-stream@3.6.2 want: ^1.0.1
+1319 silly fetch manifest safe-buffer@~5.2.0
+1320 silly packumentCache full:https://registry.npmjs.org/safe-buffer cache-miss
+1321 http fetch GET 200 https://registry.npmjs.org/safe-buffer 31ms (cache miss)
+1322 silly packumentCache full:https://registry.npmjs.org/safe-buffer set size:9110 disposed:false
+1323 silly placeDep ROOT is-core-module@2.16.1 OK for: resolve@1.22.8 want: ^2.13.0
+1324 silly placeDep ROOT path-parse@1.0.7 OK for: resolve@1.22.8 want: ^1.0.7
+1325 silly placeDep ROOT supports-preserve-symlinks-flag@1.0.0 OK for: resolve@1.22.8 want: ^1.0.0
+1326 silly placeDep ROOT onetime@5.1.2 OK for: restore-cursor@3.1.0 want: ^5.1.0
+1327 silly placeDep node_modules/restore-cursor signal-exit@3.0.7 OK for: restore-cursor@3.1.0 want: ^3.0.2
+1328 silly fetch manifest mimic-fn@^2.1.0
+1329 silly packumentCache full:https://registry.npmjs.org/mimic-fn cache-miss
+1330 http fetch GET 200 https://registry.npmjs.org/mimic-fn 35ms (cache miss)
+1331 silly packumentCache full:https://registry.npmjs.org/mimic-fn set size:9978 disposed:false
+1332 silly placeDep ROOT mimic-fn@2.1.0 OK for: onetime@5.1.2 want: ^2.1.0
+1333 silly placeDep ROOT tslib@2.8.1 OK for: rxjs@7.8.1 want: ^2.1.0
+1334 silly placeDep node_modules/semver lru-cache@6.0.0 OK for: semver@7.6.0 want: ^6.0.0
+1335 silly placeDep ROOT define-data-property@1.1.4 OK for: set-function-length@1.2.2 want: ^1.1.4
+1336 silly placeDep ROOT has-property-descriptors@1.0.2 OK for: set-function-length@1.2.2 want: ^1.0.2
+1337 silly placeDep ROOT shebang-regex@3.0.0 OK for: shebang-command@2.0.0 want: ^3.0.0
+1338 silly placeDep ROOT @sigstore/bundle@2.3.2 OK for: sigstore@2.3.1 want: ^2.3.2
+1339 silly placeDep ROOT @sigstore/core@1.1.0 OK for: sigstore@2.3.1 want: ^1.0.0
+1340 silly placeDep ROOT @sigstore/protobuf-specs@0.3.3 OK for: sigstore@2.3.1 want: ^0.3.2
+1341 silly placeDep ROOT @sigstore/sign@2.3.2 OK for: sigstore@2.3.1 want: ^2.3.2
+1342 silly placeDep ROOT @sigstore/tuf@2.3.4 OK for: sigstore@2.3.1 want: ^2.3.4
+1343 silly placeDep ROOT @sigstore/verify@1.2.1 OK for: sigstore@2.3.1 want: ^1.2.1
+1344 silly fetch manifest tuf-js@^2.2.1
+1345 silly packumentCache full:https://registry.npmjs.org/tuf-js cache-miss
+1346 http fetch GET 200 https://registry.npmjs.org/tuf-js 33ms (cache miss)
+1347 silly packumentCache full:https://registry.npmjs.org/tuf-js set size:37326 disposed:false
+1348 silly placeDep node_modules/@sigstore/sign proc-log@4.2.0 OK for: @sigstore/sign@2.3.2 want: ^4.2.0
+1349 silly placeDep ROOT tuf-js@2.2.1 OK for: @sigstore/tuf@2.3.4 want: ^2.2.1
+1350 silly fetch manifest @tufjs/models@2.0.1
+1351 silly packumentCache full:https://registry.npmjs.org/@tufjs%2fmodels cache-miss
+1352 http fetch GET 200 https://registry.npmjs.org/@tufjs%2fmodels 794ms (cache miss)
+1353 silly packumentCache full:https://registry.npmjs.org/@tufjs%2fmodels set size:undefined disposed:false
+1354 silly placeDep ROOT socks@2.8.7 OK for: socks-proxy-agent@8.0.5 want: ^2.8.3
+1355 silly fetch manifest ip-address@^10.0.1
+1356 silly packumentCache full:https://registry.npmjs.org/ip-address cache-miss
+1357 silly fetch manifest smart-buffer@^4.2.0
+1358 silly packumentCache full:https://registry.npmjs.org/smart-buffer cache-miss
+1359 http fetch GET 200 https://registry.npmjs.org/smart-buffer 57ms (cache miss)
+1360 silly packumentCache full:https://registry.npmjs.org/smart-buffer set size:25136 disposed:false
+1361 http fetch GET 200 https://registry.npmjs.org/ip-address 63ms (cache miss)
+1362 silly packumentCache full:https://registry.npmjs.org/ip-address set size:66291 disposed:false
+1363 silly placeDep ROOT ip-address@10.0.1 OK for: socks@2.8.7 want: ^10.0.1
+1364 silly placeDep ROOT smart-buffer@4.2.0 OK for: socks@2.8.7 want: ^4.2.0
+1365 silly placeDep ROOT safe-buffer@5.2.1 OK for: string_decoder@1.3.0 want: ~5.2.0
+1366 silly placeDep ROOT emoji-regex@8.0.0 OK for: string-width@4.2.3 want: ^8.0.0
+1367 silly placeDep ROOT is-fullwidth-code-point@3.0.0 OK for: string-width@4.2.3 want: ^3.0.0
+1368 silly placeDep ROOT ansi-regex@5.0.1 OK for: strip-ansi@6.0.1 want: ^5.0.1
+1369 silly placeDep ROOT chownr@2.0.0 OK for: tar@6.2.1 want: ^2.0.0
+1370 silly placeDep node_modules/tar fs-minipass@2.1.0 OK for: tar@6.2.1 want: ^2.0.0
+1371 silly placeDep node_modules/tar minipass@5.0.0 OK for: tar@6.2.1 want: ^5.0.0
+1372 silly placeDep ROOT mkdirp@1.0.4 OK for: tar@6.2.1 want: ^1.0.3
+1373 silly placeDep ROOT os-tmpdir@1.0.2 OK for: tmp@0.0.33 want: ~1.0.2
+1374 silly placeDep ROOT @tufjs/models@2.0.1 OK for: tuf-js@2.2.1 want: 2.0.1
+1375 silly fetch manifest @tufjs/canonical-json@2.0.0
+1376 silly packumentCache full:https://registry.npmjs.org/@tufjs%2fcanonical-json cache-miss
+1377 http fetch GET 200 https://registry.npmjs.org/@tufjs%2fcanonical-json 784ms (cache miss)
+1378 silly packumentCache full:https://registry.npmjs.org/@tufjs%2fcanonical-json set size:undefined disposed:false
+1379 silly placeDep ROOT @tufjs/canonical-json@2.0.0 OK for: @tufjs/models@2.0.1 want: 2.0.0
+1380 silly placeDep ROOT unique-slug@4.0.0 OK for: unique-filename@3.0.0 want: ^4.0.0
+1381 silly fetch manifest imurmurhash@^0.1.4
+1382 silly packumentCache full:https://registry.npmjs.org/imurmurhash cache-miss
+1383 http fetch GET 200 https://registry.npmjs.org/imurmurhash 23ms (cache miss)
+1384 silly packumentCache full:https://registry.npmjs.org/imurmurhash set size:2644 disposed:false
+1385 silly placeDep ROOT imurmurhash@0.1.4 OK for: unique-slug@4.0.0 want: ^0.1.4
+1386 silly placeDep ROOT punycode@2.3.1 OK for: uri-js@4.4.1 want: ^2.1.0
+1387 silly placeDep ROOT spdx-correct@3.2.0 OK for: validate-npm-package-license@3.0.4 want: ^3.0.0
+1388 silly placeDep ROOT spdx-expression-parse@3.0.1 OK for: validate-npm-package-license@3.0.4 want: ^3.0.0
+1389 silly fetch manifest spdx-license-ids@^3.0.0
+1390 silly packumentCache full:https://registry.npmjs.org/spdx-license-ids cache-miss
+1391 silly fetch manifest spdx-exceptions@^2.1.0
+1392 silly packumentCache full:https://registry.npmjs.org/spdx-exceptions cache-miss
+1393 silly fetch manifest spdx-license-ids@^3.0.0
+1394 silly packumentCache full:https://registry.npmjs.org/spdx-license-ids cache-miss
+1395 http fetch GET 200 https://registry.npmjs.org/spdx-license-ids 46ms (cache miss)
+1396 silly packumentCache full:https://registry.npmjs.org/spdx-license-ids set size:36421 disposed:false
+1397 http fetch GET 200 https://registry.npmjs.org/spdx-exceptions 46ms (cache miss)
+1398 silly packumentCache full:https://registry.npmjs.org/spdx-exceptions set size:8077 disposed:false
+1399 http fetch GET 200 https://registry.npmjs.org/spdx-license-ids 47ms (cache miss)
+1400 silly packumentCache full:https://registry.npmjs.org/spdx-license-ids set size:36421 disposed:false
+1401 silly packumentCache full:https://registry.npmjs.org/spdx-license-ids dispose
+1402 silly placeDep ROOT spdx-license-ids@3.0.22 OK for: spdx-correct@3.2.0 want: ^3.0.0
+1403 silly placeDep ROOT spdx-exceptions@2.5.0 OK for: spdx-expression-parse@3.0.1 want: ^2.1.0
+1404 silly placeDep ROOT defaults@1.0.4 OK for: wcwidth@1.0.1 want: ^1.0.3
+1405 silly fetch manifest clone@^1.0.2
+1406 silly packumentCache full:https://registry.npmjs.org/clone cache-miss
+1407 http fetch GET 200 https://registry.npmjs.org/clone 21ms (cache miss)
+1408 silly packumentCache full:https://registry.npmjs.org/clone set size:20280 disposed:false
+1409 silly placeDep ROOT clone@1.0.4 OK for: defaults@1.0.4 want: ^1.0.2
+1410 silly placeDep ROOT isexe@3.1.1 OK for: which@4.0.0 want: ^3.1.1
+1411 silly placeDep ROOT ansi-styles@4.3.0 OK for: wrap-ansi@6.2.0 want: ^4.0.0
+1412 silly fetch manifest color-convert@^2.0.1
+1413 silly packumentCache full:https://registry.npmjs.org/color-convert cache-miss
+1414 http fetch GET 200 https://registry.npmjs.org/color-convert 23ms (cache miss)
+1415 silly packumentCache full:https://registry.npmjs.org/color-convert set size:25886 disposed:false
+1416 silly placeDep ROOT color-convert@2.0.1 OK for: ansi-styles@4.3.0 want: ^2.0.1
+1417 silly fetch manifest color-name@~1.1.4
+1418 silly packumentCache full:https://registry.npmjs.org/color-name cache-miss
+1419 http fetch GET 200 https://registry.npmjs.org/color-name 20ms (cache miss)
+1420 silly packumentCache full:https://registry.npmjs.org/color-name set size:7370 disposed:false
+1421 silly placeDep ROOT color-name@1.1.4 OK for: color-convert@2.0.1 want: ~1.1.4
+1422 silly placeDep ROOT cliui@8.0.1 OK for: yargs@17.7.2 want: ^8.0.1
+1423 silly placeDep ROOT escalade@3.2.0 OK for: yargs@17.7.2 want: ^3.1.1
+1424 silly placeDep ROOT get-caller-file@2.0.5 OK for: yargs@17.7.2 want: ^2.0.5
+1425 silly placeDep ROOT require-directory@2.1.1 OK for: yargs@17.7.2 want: ^2.1.1
+1426 silly placeDep ROOT y18n@5.0.8 OK for: yargs@17.7.2 want: ^5.0.5
+1427 silly placeDep ROOT yargs-parser@21.1.1 OK for: yargs@17.7.2 want: ^21.1.1
+1428 silly fetch manifest wrap-ansi@^7.0.0
+1429 silly packumentCache full:https://registry.npmjs.org/wrap-ansi cache-hit
+1430 silly placeDep node_modules/cliui wrap-ansi@7.0.0 OK for: cliui@8.0.1 want: ^7.0.0
+1431 silly placeDep ROOT eastasianwidth@0.2.0 OK for: string-width@5.1.2 want: ^0.2.0
+1432 silly placeDep node_modules/@isaacs/cliui emoji-regex@9.2.2 OK for: string-width@5.1.2 want: ^9.2.2
+1433 silly placeDep node_modules/@isaacs/cliui ansi-regex@6.2.2 OK for: strip-ansi@7.1.2 want: ^6.0.1
+1434 silly placeDep node_modules/@isaacs/cliui ansi-styles@6.2.3 OK for: wrap-ansi@8.1.0 want: ^6.1.0
+1435 silly placeDep node_modules/cross-spawn isexe@2.0.0 OK for: which@2.0.2 want: ^2.0.0
+1436 silly placeDep ROOT supports-color@7.2.0 OK for: chalk@4.1.2 want: ^7.1.0
+1437 silly fetch manifest has-flag@^4.0.0
+1438 silly packumentCache full:https://registry.npmjs.org/has-flag cache-miss
+1439 http fetch GET 200 https://registry.npmjs.org/has-flag 20ms (cache miss)
+1440 silly packumentCache full:https://registry.npmjs.org/has-flag set size:6334 disposed:false
+1441 silly placeDep ROOT has-flag@4.0.0 OK for: supports-color@7.2.0 want: ^4.0.0
+1442 silly placeDep node_modules/tar/node_modules/fs-minipass minipass@3.3.6 OK for: fs-minipass@2.1.0 want: ^3.0.0
+1443 silly reify moves {}
+1444 warn deprecated read-package-json@7.0.1: This package is no longer supported. Please use @npmcli/package-json instead.
