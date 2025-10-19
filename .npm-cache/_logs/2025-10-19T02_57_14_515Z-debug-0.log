@@ -14,3 +14,338 @@
 13 http fetch GET 200 https://registry.npmjs.org/@angular%2fcli 458ms (cache miss)
 14 silly packumentCache heap:9007199254740991 maxSize:2251799813685247 maxEntrySize:1125899906842623
 15 silly packumentCache heap:9007199254740991 maxSize:2251799813685247 maxEntrySize:1125899906842623
+16 silly packumentCache https://registry.npmjs.org/ini set size:24884 disposed:false
+17 silly packumentCache https://registry.npmjs.org/ora set size:68127 disposed:false
+18 silly packumentCache https://registry.npmjs.org/bl set size:63871 disposed:false
+19 silly packumentCache https://registry.npmjs.org/buffer set size:95226 disposed:false
+20 silly packumentCache https://registry.npmjs.org/base64-js set size:17075 disposed:false
+21 silly packumentCache https://registry.npmjs.org/ieee754 set size:13257 disposed:false
+22 silly packumentCache https://registry.npmjs.org/inherits set size:4424 disposed:false
+23 silly packumentCache https://registry.npmjs.org/readable-stream set size:120297 disposed:false
+24 silly packumentCache https://registry.npmjs.org/string_decoder set size:11185 disposed:false
+25 silly packumentCache https://registry.npmjs.org/safe-buffer set size:9110 disposed:false
+26 silly packumentCache https://registry.npmjs.org/util-deprecate set size:1568 disposed:false
+27 silly packumentCache https://registry.npmjs.org/chalk set size:47870 disposed:false
+28 silly packumentCache https://registry.npmjs.org/ansi-styles set size:29858 disposed:false
+29 silly packumentCache https://registry.npmjs.org/color-convert set size:25886 disposed:false
+30 silly packumentCache https://registry.npmjs.org/color-name set size:7370 disposed:false
+31 silly packumentCache https://registry.npmjs.org/supports-color set size:54084 disposed:false
+32 silly packumentCache https://registry.npmjs.org/has-flag set size:6334 disposed:false
+33 silly packumentCache https://registry.npmjs.org/wcwidth set size:1849 disposed:false
+34 silly packumentCache https://registry.npmjs.org/defaults set size:8380 disposed:false
+35 silly packumentCache https://registry.npmjs.org/clone set size:20280 disposed:false
+36 silly packumentCache https://registry.npmjs.org/cli-cursor set size:8567 disposed:false
+37 silly packumentCache https://registry.npmjs.org/restore-cursor set size:7961 disposed:false
+38 silly packumentCache https://registry.npmjs.org/@angular%2fcli set size:1685888 disposed:false
+39 silly packumentCache https://registry.npmjs.org/tar set size:159222 disposed:false
+40 silly packumentCache https://registry.npmjs.org/chownr set size:11768 disposed:false
+41 silly packumentCache https://registry.npmjs.org/mkdirp set size:49417 disposed:false
+42 silly packumentCache https://registry.npmjs.org/yallist set size:13036 disposed:false
+43 silly packumentCache https://registry.npmjs.org/minipass set size:115719 disposed:false
+44 silly packumentCache https://registry.npmjs.org/minizlib set size:26328 disposed:false
+45 silly packumentCache https://registry.npmjs.org/fs-minipass set size:19625 disposed:false
+46 silly packumentCache https://registry.npmjs.org/ssri set size:41983 disposed:false
+47 silly packumentCache https://registry.npmjs.org/cacache set size:153536 disposed:false
+48 silly packumentCache https://registry.npmjs.org/glob set size:155857 disposed:false
+49 silly packumentCache https://registry.npmjs.org/jackspeak set size:76417 disposed:false
+50 silly packumentCache https://registry.npmjs.org/@isaacs%2fcliui set size:2239 disposed:false
+51 silly packumentCache https://registry.npmjs.org/eastasianwidth set size:2726 disposed:false
+52 silly packumentCache https://registry.npmjs.org/minimatch set size:143741 disposed:false
+53 silly packumentCache https://registry.npmjs.org/onetime set size:14975 disposed:false
+54 silly packumentCache https://registry.npmjs.org/mimic-fn set size:9978 disposed:false
+55 silly packumentCache https://registry.npmjs.org/signal-exit set size:21300 disposed:false
+56 silly packumentCache https://registry.npmjs.org/strip-ansi set size:18603 disposed:false
+57 silly packumentCache https://registry.npmjs.org/ansi-regex set size:19268 disposed:false
+58 silly packumentCache https://registry.npmjs.org/log-symbols set size:13991 disposed:false
+59 silly packumentCache https://registry.npmjs.org/is-unicode-supported set size:9582 disposed:false
+60 silly packumentCache https://registry.npmjs.org/cli-spinners set size:28204 disposed:false
+61 silly packumentCache https://registry.npmjs.org/is-interactive set size:4807 disposed:false
+62 silly packumentCache https://registry.npmjs.org/open set size:69445 disposed:false
+63 silly packumentCache https://registry.npmjs.org/is-wsl set size:8848 disposed:false
+64 silly packumentCache https://registry.npmjs.org/is-docker set size:12041 disposed:false
+65 silly packumentCache https://registry.npmjs.org/define-lazy-prop set size:3781 disposed:false
+66 silly packumentCache https://registry.npmjs.org/yargs set size:342846 disposed:false
+67 silly packumentCache https://registry.npmjs.org/y18n set size:28451 disposed:false
+68 silly packumentCache https://registry.npmjs.org/cliui set size:30917 disposed:false
+69 silly packumentCache https://registry.npmjs.org/wrap-ansi set size:24757 disposed:false
+70 silly packumentCache https://registry.npmjs.org/string-width set size:29561 disposed:false
+71 silly packumentCache https://registry.npmjs.org/emoji-regex set size:40047 disposed:false
+72 silly packumentCache https://registry.npmjs.org/is-fullwidth-code-point set size:5986 disposed:false
+73 silly packumentCache https://registry.npmjs.org/escalade set size:13344 disposed:false
+74 silly packumentCache https://registry.npmjs.org/yargs-parser set size:114022 disposed:false
+75 silly packumentCache https://registry.npmjs.org/get-caller-file set size:13601 disposed:false
+76 silly packumentCache https://registry.npmjs.org/require-directory set size:6877 disposed:false
+77 silly packumentCache https://registry.npmjs.org/pacote set size:387312 disposed:false
+78 silly packumentCache https://registry.npmjs.org/brace-expansion set size:16192 disposed:false
+79 silly packumentCache https://registry.npmjs.org/balanced-match set size:11300 disposed:false
+80 silly packumentCache https://registry.npmjs.org/path-scurry set size:40759 disposed:false
+81 silly packumentCache https://registry.npmjs.org/lru-cache set size:183359 disposed:false
+82 silly packumentCache https://registry.npmjs.org/foreground-child set size:21249 disposed:false
+83 silly packumentCache https://registry.npmjs.org/cross-spawn set size:44626 disposed:false
+84 silly packumentCache https://registry.npmjs.org/which set size:26420 disposed:false
+85 silly packumentCache https://registry.npmjs.org/isexe set size:5750 disposed:false
+86 silly packumentCache https://registry.npmjs.org/path-key set size:7889 disposed:false
+87 silly packumentCache https://registry.npmjs.org/shebang-command set size:3464 disposed:false
+88 silly packumentCache https://registry.npmjs.org/shebang-regex set size:4332 disposed:false
+89 silly packumentCache https://registry.npmjs.org/package-json-from-dist set size:1491 disposed:false
+90 silly packumentCache https://registry.npmjs.org/p-map set size:22859 disposed:false
+91 silly packumentCache https://registry.npmjs.org/aggregate-error set size:14955 disposed:false
+92 silly packumentCache https://registry.npmjs.org/clean-stack set size:25610 disposed:false
+93 silly packumentCache https://registry.npmjs.org/indent-string set size:11999 disposed:false
+94 silly packumentCache https://registry.npmjs.org/@npmcli%2ffs set size:18084 disposed:false
+95 silly packumentCache https://registry.npmjs.org/semver set size:95618 disposed:false
+96 silly packumentCache https://registry.npmjs.org/minipass-flush set size:9169 disposed:false
+97 silly packumentCache https://registry.npmjs.org/unique-filename set size:8742 disposed:false
+98 silly packumentCache https://registry.npmjs.org/unique-slug set size:8453 disposed:false
+99 silly packumentCache https://registry.npmjs.org/imurmurhash set size:2644 disposed:false
+100 silly packumentCache https://registry.npmjs.org/minipass-collect set size:5951 disposed:false
+101 silly packumentCache https://registry.npmjs.org/minipass-pipeline set size:16852 disposed:false
+102 silly packumentCache https://registry.npmjs.org/proc-log set size:9725 disposed:false
+103 silly packumentCache https://registry.npmjs.org/sigstore set size:61429 disposed:false
+104 silly packumentCache https://registry.npmjs.org/@sigstore%2ftuf set size:14547 disposed:false
+105 silly packumentCache https://registry.npmjs.org/tuf-js set size:37326 disposed:false
+106 silly packumentCache https://registry.npmjs.org/make-fetch-happen set size:180680 disposed:false
+107 silly packumentCache https://registry.npmjs.org/promise-retry set size:12745 disposed:false
+108 silly packumentCache https://registry.npmjs.org/err-code set size:13424 disposed:false
+109 silly packumentCache https://registry.npmjs.org/retry set size:9526 disposed:false
+110 silly packumentCache https://registry.npmjs.org/minipass-fetch set size:54605 disposed:false
+111 silly packumentCache https://registry.npmjs.org/minipass-sized set size:6284 disposed:false
+112 silly packumentCache https://registry.npmjs.org/is-lambda set size:1177 disposed:false
+113 silly packumentCache https://registry.npmjs.org/negotiator set size:17698 disposed:false
+114 silly packumentCache https://registry.npmjs.org/@npmcli%2fagent set size:10844 disposed:false
+115 silly packumentCache https://registry.npmjs.org/agent-base set size:31363 disposed:false
+116 silly packumentCache https://registry.npmjs.org/http-proxy-agent set size:22735 disposed:false
+117 silly packumentCache https://registry.npmjs.org/debug set size:75577 disposed:false
+118 silly packumentCache https://registry.npmjs.org/ms set size:29397 disposed:false
+119 silly packumentCache https://registry.npmjs.org/https-proxy-agent set size:34633 disposed:false
+120 silly packumentCache https://registry.npmjs.org/socks-proxy-agent set size:40447 disposed:false
+121 silly packumentCache https://registry.npmjs.org/socks set size:65181 disposed:false
+122 silly packumentCache https://registry.npmjs.org/ip-address set size:66291 disposed:false
+123 silly packumentCache https://registry.npmjs.org/smart-buffer set size:25136 disposed:false
+124 silly packumentCache https://registry.npmjs.org/http-cache-semantics set size:23293 disposed:false
+125 silly packumentCache https://registry.npmjs.org/@tufjs%2fmodels set size:15086 disposed:false
+126 silly packumentCache https://registry.npmjs.org/@tufjs%2fcanonical-json set size:2655 disposed:false
+127 silly packumentCache https://registry.npmjs.org/@sigstore%2fprotobuf-specs set size:13056 disposed:false
+128 silly packumentCache https://registry.npmjs.org/@sigstore%2fcore set size:4405 disposed:false
+129 silly packumentCache https://registry.npmjs.org/@sigstore%2fsign set size:14412 disposed:false
+130 silly packumentCache https://registry.npmjs.org/@sigstore%2fbundle set size:9457 disposed:false
+131 silly packumentCache https://registry.npmjs.org/@sigstore%2fverify set size:8421 disposed:false
+132 silly packumentCache https://registry.npmjs.org/@npmcli%2fgit set size:52171 disposed:false
+133 silly packumentCache https://registry.npmjs.org/npm-pick-manifest set size:40337 disposed:false
+134 silly packumentCache https://registry.npmjs.org/npm-package-arg set size:57423 disposed:false
+135 silly packumentCache https://registry.npmjs.org/hosted-git-info set size:77606 disposed:false
+136 silly packumentCache https://registry.npmjs.org/validate-npm-package-name set size:14513 disposed:false
+137 silly packumentCache https://registry.npmjs.org/npm-install-checks set size:24472 disposed:false
+138 silly packumentCache https://registry.npmjs.org/npm-normalize-package-bin set size:9204 disposed:false
+139 silly packumentCache https://registry.npmjs.org/promise-inflight set size:1132 disposed:false
+140 silly packumentCache https://registry.npmjs.org/@npmcli%2fpromise-spawn set size:29278 disposed:false
+141 silly packumentCache https://registry.npmjs.org/npm-packlist set size:94569 disposed:false
+142 silly packumentCache https://registry.npmjs.org/ignore-walk set size:29370 disposed:false
+143 silly packumentCache https://registry.npmjs.org/read-package-json set size:92128 disposed:false
+144 silly packumentCache https://registry.npmjs.org/normalize-package-data set size:54452 disposed:false
+145 silly packumentCache https://registry.npmjs.org/validate-npm-package-license set size:7773 disposed:false
+146 silly packumentCache https://registry.npmjs.org/spdx-correct set size:17118 disposed:false
+147 silly packumentCache https://registry.npmjs.org/spdx-expression-parse set size:8640 disposed:false
+148 silly packumentCache https://registry.npmjs.org/spdx-exceptions set size:8077 disposed:false
+149 silly packumentCache https://registry.npmjs.org/spdx-license-ids set size:36421 disposed:false
+150 silly packumentCache https://registry.npmjs.org/json-parse-even-better-errors set size:13571 disposed:false
+151 silly packumentCache https://registry.npmjs.org/@npmcli%2frun-script set size:95840 disposed:false
+152 silly packumentCache https://registry.npmjs.org/node-gyp set size:153933 disposed:false
+153 silly packumentCache https://registry.npmjs.org/nopt set size:27234 disposed:false
+154 silly packumentCache https://registry.npmjs.org/abbrev set size:7167 disposed:false
+155 silly packumentCache https://registry.npmjs.org/env-paths set size:10401 disposed:false
+156 silly packumentCache https://registry.npmjs.org/graceful-fs set size:59199 disposed:false
+157 silly packumentCache https://registry.npmjs.org/exponential-backoff set size:28268 disposed:false
+158 silly packumentCache https://registry.npmjs.org/@npmcli%2fnode-gyp set size:9293 disposed:false
+159 silly packumentCache https://registry.npmjs.org/@npmcli%2fpackage-json set size:27432 disposed:false
+160 silly packumentCache https://registry.npmjs.org/npm-registry-fetch set size:131404 disposed:false
+161 silly packumentCache https://registry.npmjs.org/@npmcli%2fredact set size:8898 disposed:false
+162 silly packumentCache https://registry.npmjs.org/minipass-json-stream set size:3907 disposed:false
+163 silly packumentCache https://registry.npmjs.org/jsonparse set size:6010 disposed:false
+164 silly packumentCache https://registry.npmjs.org/read-package-json-fast set size:30100 disposed:false
+165 silly packumentCache https://registry.npmjs.org/@npmcli%2finstalled-package-contents set size:21594 disposed:false
+166 silly packumentCache https://registry.npmjs.org/npm-bundled set size:18629 disposed:false
+167 silly packumentCache https://registry.npmjs.org/resolve set size:101264 disposed:false
+168 silly packumentCache https://registry.npmjs.org/path-parse set size:5796 disposed:false
+169 silly packumentCache https://registry.npmjs.org/is-core-module set size:31206 disposed:false
+170 silly packumentCache https://registry.npmjs.org/hasown set size:3513 disposed:false
+171 silly packumentCache https://registry.npmjs.org/function-bind set size:3724 disposed:false
+172 silly packumentCache https://registry.npmjs.org/supports-preserve-symlinks-flag set size:1887 disposed:false
+173 silly packumentCache https://registry.npmjs.org/inquirer set size:246895 disposed:false
+174 silly packumentCache https://registry.npmjs.org/rxjs set size:387621 disposed:false
+175 silly packumentCache https://registry.npmjs.org/tslib set size:42915 disposed:false
+176 silly packumentCache https://registry.npmjs.org/lodash set size:67972 disposed:false
+177 silly packumentCache https://registry.npmjs.org/figures set size:20821 disposed:false
+178 silly packumentCache https://registry.npmjs.org/escape-string-regexp set size:9856 disposed:false
+179 silly packumentCache https://registry.npmjs.org/cli-width set size:10010 disposed:false
+180 silly packumentCache https://registry.npmjs.org/run-async set size:11257 disposed:false
+181 silly packumentCache https://registry.npmjs.org/mute-stream set size:7843 disposed:false
+182 silly packumentCache https://registry.npmjs.org/ansi-escapes set size:28893 disposed:false
+183 silly packumentCache https://registry.npmjs.org/type-fest set size:220637 disposed:false
+184 silly packumentCache https://registry.npmjs.org/@ljharb%2fthrough set size:5498 disposed:false
+185 silly packumentCache https://registry.npmjs.org/call-bind set size:11469 disposed:false
+186 silly packumentCache https://registry.npmjs.org/call-bind-apply-helpers set size:3677 disposed:false
+187 silly packumentCache https://registry.npmjs.org/es-errors set size:4277 disposed:false
+188 silly packumentCache https://registry.npmjs.org/es-define-property set size:1985 disposed:false
+189 silly packumentCache https://registry.npmjs.org/get-intrinsic set size:27579 disposed:false
+190 silly packumentCache https://registry.npmjs.org/gopd set size:3782 disposed:false
+191 silly packumentCache https://registry.npmjs.org/get-proto set size:1965 disposed:false
+192 silly packumentCache https://registry.npmjs.org/dunder-proto set size:2071 disposed:false
+193 silly packumentCache https://registry.npmjs.org/es-object-atoms set size:3800 disposed:false
+194 silly packumentCache https://registry.npmjs.org/has-symbols set size:7061 disposed:false
+195 silly packumentCache https://registry.npmjs.org/async-function set size:1536 disposed:false
+196 silly packumentCache https://registry.npmjs.org/math-intrinsics set size:2182 disposed:false
+197 silly packumentCache https://registry.npmjs.org/generator-function set size:2659 disposed:false
+198 silly packumentCache https://registry.npmjs.org/async-generator-function set size:1116 disposed:false
+199 silly packumentCache https://registry.npmjs.org/set-function-length set size:8485 disposed:false
+200 silly packumentCache https://registry.npmjs.org/define-data-property set size:9925 disposed:false
+201 silly packumentCache https://registry.npmjs.org/has-property-descriptors set size:3731 disposed:false
+202 silly packumentCache https://registry.npmjs.org/external-editor set size:17808 disposed:false
+203 silly packumentCache https://registry.npmjs.org/chardet set size:29925 disposed:false
+204 silly packumentCache https://registry.npmjs.org/iconv-lite set size:41921 disposed:false
+205 silly packumentCache https://registry.npmjs.org/safer-buffer set size:3543 disposed:false
+206 silly packumentCache https://registry.npmjs.org/tmp set size:23979 disposed:false
+207 silly packumentCache https://registry.npmjs.org/os-tmpdir set size:3311 disposed:false
+208 silly packumentCache https://registry.npmjs.org/ansi-colors set size:42026 disposed:false
+209 silly packumentCache https://registry.npmjs.org/jsonc-parser set size:35121 disposed:false
+210 silly packumentCache https://registry.npmjs.org/@yarnpkg%2flockfile set size:4902 disposed:false
+211 silly packumentCache https://registry.npmjs.org/symbol-observable set size:18430 disposed:false
+212 silly packumentCache https://registry.npmjs.org/@schematics%2fangular set size:1162795 disposed:false
+213 silly packumentCache https://registry.npmjs.org/@angular-devkit%2fcore set size:1191103 disposed:false
+214 silly packumentCache https://registry.npmjs.org/ajv set size:461470 disposed:false
+215 silly packumentCache https://registry.npmjs.org/uri-js set size:14694 disposed:false
+216 silly packumentCache https://registry.npmjs.org/punycode set size:22438 disposed:false
+217 silly packumentCache https://registry.npmjs.org/fast-deep-equal set size:19619 disposed:false
+218 silly packumentCache https://registry.npmjs.org/require-from-string set size:5222 disposed:false
+219 silly packumentCache https://registry.npmjs.org/json-schema-traverse set size:9352 disposed:false
+220 silly packumentCache https://registry.npmjs.org/picomatch set size:42189 disposed:false
+221 silly packumentCache https://registry.npmjs.org/source-map set size:45593 disposed:false
+222 silly packumentCache https://registry.npmjs.org/ajv-formats set size:63554 disposed:false
+223 silly packumentCache https://registry.npmjs.org/fast-uri set size:19532 disposed:false
+224 silly packumentCache https://registry.npmjs.org/chokidar set size:118541 disposed:false
+225 silly packumentCache https://registry.npmjs.org/braces set size:35919 disposed:false
+226 silly packumentCache https://registry.npmjs.org/fill-range set size:26495 disposed:false
+227 silly packumentCache https://registry.npmjs.org/to-regex-range set size:17851 disposed:false
+228 silly packumentCache https://registry.npmjs.org/is-number set size:9995 disposed:false
+229 silly packumentCache https://registry.npmjs.org/is-glob set size:11060 disposed:false
+230 silly packumentCache https://registry.npmjs.org/is-extglob set size:2360 disposed:false
+231 silly packumentCache https://registry.npmjs.org/anymatch set size:18345 disposed:false
+232 silly packumentCache https://registry.npmjs.org/normalize-path set size:7738 disposed:false
+233 silly packumentCache https://registry.npmjs.org/readdirp set size:46202 disposed:false
+234 silly packumentCache https://registry.npmjs.org/glob-parent set size:17983 disposed:false
+235 silly packumentCache https://registry.npmjs.org/is-binary-path set size:5709 disposed:false
+236 silly packumentCache https://registry.npmjs.org/binary-extensions set size:20771 disposed:false
+237 silly packumentCache https://registry.npmjs.org/@angular-devkit%2fschematics set size:1163288 disposed:false
+238 silly packumentCache https://registry.npmjs.org/magic-string set size:120112 disposed:false
+239 silly packumentCache https://registry.npmjs.org/@jridgewell%2fsourcemap-codec set size:18283 disposed:false
+240 silly packumentCache https://registry.npmjs.org/@angular-devkit%2farchitect set size:1096132 disposed:false
+241 silly idealTree buildDeps
+242 silly fetch manifest @angular/cli@17.3.17
+243 silly packumentCache full:https://registry.npmjs.org/@angular%2fcli cache-miss
+244 http fetch GET 200 https://registry.npmjs.org/@angular%2fcli 1109ms (cache miss)
+245 silly packumentCache full:https://registry.npmjs.org/@angular%2fcli set size:undefined disposed:false
+246 silly placeDep ROOT @angular/cli@17.3.17 OK for:  want: 17.3.17
+247 silly fetch manifest ini@4.1.2
+248 silly packumentCache full:https://registry.npmjs.org/ini cache-miss
+249 silly fetch manifest ora@5.4.1
+250 silly packumentCache full:https://registry.npmjs.org/ora cache-miss
+251 silly fetch manifest open@8.4.2
+252 silly packumentCache full:https://registry.npmjs.org/open cache-miss
+253 silly fetch manifest yargs@17.7.2
+254 silly packumentCache full:https://registry.npmjs.org/yargs cache-miss
+255 silly fetch manifest pacote@17.0.6
+256 silly packumentCache full:https://registry.npmjs.org/pacote cache-miss
+257 silly fetch manifest semver@7.6.0
+258 silly packumentCache full:https://registry.npmjs.org/semver cache-miss
+259 silly fetch manifest resolve@1.22.8
+260 silly packumentCache full:https://registry.npmjs.org/resolve cache-miss
+261 http fetch GET 200 https://registry.npmjs.org/ini 146ms (cache miss)
+262 silly packumentCache full:https://registry.npmjs.org/ini set size:24884 disposed:false
+263 silly fetch manifest inquirer@9.2.15
+264 silly packumentCache full:https://registry.npmjs.org/inquirer cache-miss
+265 http fetch GET 200 https://registry.npmjs.org/ora 166ms (cache miss)
+266 http fetch GET 200 https://registry.npmjs.org/open 165ms (cache miss)
+267 silly packumentCache full:https://registry.npmjs.org/ora set size:68127 disposed:false
+268 silly packumentCache full:https://registry.npmjs.org/open set size:69445 disposed:false
+269 silly fetch manifest ansi-colors@4.1.3
+270 silly packumentCache full:https://registry.npmjs.org/ansi-colors cache-miss
+271 silly fetch manifest jsonc-parser@3.2.1
+272 silly packumentCache full:https://registry.npmjs.org/jsonc-parser cache-miss
+273 http fetch GET 200 https://registry.npmjs.org/semver 183ms (cache miss)
+274 silly packumentCache full:https://registry.npmjs.org/semver set size:95618 disposed:false
+275 silly fetch manifest npm-package-arg@11.0.1
+276 silly packumentCache full:https://registry.npmjs.org/npm-package-arg cache-miss
+277 http fetch GET 200 https://registry.npmjs.org/resolve 194ms (cache miss)
+278 silly packumentCache full:https://registry.npmjs.org/resolve set size:101264 disposed:false
+279 silly fetch manifest @yarnpkg/lockfile@1.1.0
+280 silly packumentCache full:https://registry.npmjs.org/@yarnpkg%2flockfile cache-miss
+281 http fetch GET 200 https://registry.npmjs.org/yargs 249ms (cache miss)
+282 silly packumentCache full:https://registry.npmjs.org/yargs set size:342846 disposed:false
+283 silly fetch manifest npm-pick-manifest@9.0.0
+284 silly packumentCache full:https://registry.npmjs.org/npm-pick-manifest cache-miss
+285 http fetch GET 200 https://registry.npmjs.org/ansi-colors 105ms (cache miss)
+286 silly packumentCache full:https://registry.npmjs.org/ansi-colors set size:42026 disposed:false
+287 silly fetch manifest symbol-observable@4.0.0
+288 silly packumentCache full:https://registry.npmjs.org/symbol-observable cache-miss
+289 http fetch GET 200 https://registry.npmjs.org/pacote 283ms (cache miss)
+290 http fetch GET 200 https://registry.npmjs.org/jsonc-parser 115ms (cache miss)
+291 silly packumentCache full:https://registry.npmjs.org/pacote set size:387312 disposed:false
+292 silly packumentCache full:https://registry.npmjs.org/jsonc-parser set size:35121 disposed:false
+293 silly fetch manifest @schematics/angular@17.3.17
+294 silly packumentCache full:https://registry.npmjs.org/@schematics%2fangular cache-miss
+295 silly fetch manifest @angular-devkit/core@17.3.17
+296 silly packumentCache full:https://registry.npmjs.org/@angular-devkit%2fcore cache-miss
+297 http fetch GET 200 https://registry.npmjs.org/npm-package-arg 126ms (cache miss)
+298 silly packumentCache full:https://registry.npmjs.org/npm-package-arg set size:57423 disposed:false
+299 silly fetch manifest @angular-devkit/architect@0.1703.17
+300 silly packumentCache full:https://registry.npmjs.org/@angular-devkit%2farchitect cache-miss
+301 http fetch GET 200 https://registry.npmjs.org/inquirer 204ms (cache miss)
+302 silly packumentCache full:https://registry.npmjs.org/inquirer set size:246895 disposed:false
+303 silly fetch manifest @angular-devkit/schematics@17.3.17
+304 silly packumentCache full:https://registry.npmjs.org/@angular-devkit%2fschematics cache-miss
+305 http fetch GET 200 https://registry.npmjs.org/npm-pick-manifest 119ms (cache miss)
+306 silly packumentCache full:https://registry.npmjs.org/npm-pick-manifest set size:40337 disposed:false
+307 http fetch GET 200 https://registry.npmjs.org/symbol-observable 101ms (cache miss)
+308 silly packumentCache full:https://registry.npmjs.org/symbol-observable set size:18430 disposed:false
+309 http fetch GET 200 https://registry.npmjs.org/@yarnpkg%2flockfile 766ms (cache miss)
+310 silly packumentCache full:https://registry.npmjs.org/@yarnpkg%2flockfile set size:undefined disposed:false
+311 http fetch GET 200 https://registry.npmjs.org/@angular-devkit%2farchitect 1333ms (cache miss)
+312 silly packumentCache full:https://registry.npmjs.org/@angular-devkit%2farchitect set size:undefined disposed:false
+313 http fetch GET 200 https://registry.npmjs.org/@angular-devkit%2fcore 1419ms (cache miss)
+314 silly packumentCache full:https://registry.npmjs.org/@angular-devkit%2fcore set size:undefined disposed:false
+315 http fetch GET 200 https://registry.npmjs.org/@schematics%2fangular 1507ms (cache miss)
+316 silly packumentCache full:https://registry.npmjs.org/@schematics%2fangular set size:undefined disposed:false
+317 http fetch GET 200 https://registry.npmjs.org/@angular-devkit%2fschematics 1495ms (cache miss)
+318 silly packumentCache full:https://registry.npmjs.org/@angular-devkit%2fschematics set size:undefined disposed:false
+319 silly placeDep ROOT @angular-devkit/architect@0.1703.17 OK for: @angular/cli@17.3.17 want: 0.1703.17
+320 silly placeDep ROOT @angular-devkit/core@17.3.17 OK for: @angular/cli@17.3.17 want: 17.3.17
+321 silly placeDep ROOT @angular-devkit/schematics@17.3.17 OK for: @angular/cli@17.3.17 want: 17.3.17
+322 silly placeDep ROOT @schematics/angular@17.3.17 OK for: @angular/cli@17.3.17 want: 17.3.17
+323 silly placeDep ROOT @yarnpkg/lockfile@1.1.0 OK for: @angular/cli@17.3.17 want: 1.1.0
+324 silly placeDep ROOT ansi-colors@4.1.3 OK for: @angular/cli@17.3.17 want: 4.1.3
+325 silly placeDep ROOT ini@4.1.2 OK for: @angular/cli@17.3.17 want: 4.1.2
+326 silly placeDep ROOT inquirer@9.2.15 OK for: @angular/cli@17.3.17 want: 9.2.15
+327 silly placeDep ROOT jsonc-parser@3.2.1 OK for: @angular/cli@17.3.17 want: 3.2.1
+328 silly placeDep ROOT npm-package-arg@11.0.1 OK for: @angular/cli@17.3.17 want: 11.0.1
+329 silly placeDep ROOT npm-pick-manifest@9.0.0 OK for: @angular/cli@17.3.17 want: 9.0.0
+330 silly placeDep ROOT open@8.4.2 OK for: @angular/cli@17.3.17 want: 8.4.2
+331 silly placeDep ROOT ora@5.4.1 OK for: @angular/cli@17.3.17 want: 5.4.1
+332 silly placeDep ROOT pacote@17.0.6 OK for: @angular/cli@17.3.17 want: 17.0.6
+333 silly placeDep ROOT resolve@1.22.8 OK for: @angular/cli@17.3.17 want: 1.22.8
+334 silly placeDep ROOT semver@7.6.0 OK for: @angular/cli@17.3.17 want: 7.6.0
+335 silly placeDep ROOT symbol-observable@4.0.0 OK for: @angular/cli@17.3.17 want: 4.0.0
+336 silly placeDep ROOT yargs@17.7.2 OK for: @angular/cli@17.3.17 want: 17.7.2
+337 silly fetch manifest rxjs@7.8.1
+338 silly packumentCache full:https://registry.npmjs.org/rxjs cache-miss
+339 silly fetch manifest ajv@8.12.0
+340 silly packumentCache full:https://registry.npmjs.org/ajv cache-miss
+341 silly fetch manifest rxjs@7.8.1
+342 silly packumentCache full:https://registry.npmjs.org/rxjs cache-miss
+343 silly fetch manifest picomatch@4.0.1
+344 silly packumentCache full:https://registry.npmjs.org/picomatch cache-miss
+345 silly fetch manifest source-map@0.7.4
+346 silly packumentCache full:https://registry.npmjs.org/source-map cache-miss
+347 silly fetch manifest ajv-formats@2.1.1
+348 silly packumentCache full:https://registry.npmjs.org/ajv-formats cache-miss
+349 silly fetch manifest rxjs@7.8.1
+350 silly packumentCache full:https://registry.npmjs.org/rxjs cache-miss

@@ -1,0 +1,2 @@
+
+11b06ab7c29d98be0bff8b31642b41638e506031	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/jsonc-parser","integrity":"sha512-lAQWCreUFAEYNSb5uQmMvMJOdB0Ef2G/9OBycrs3MSEccWLJ0eXimRuYL/B5Fv7yLUrP4Kcq5bo9tIGK3OBT/g==","time":1760842638737,"size":35121,"metadata":{"time":1760842638707,"url":"https://registry.npmjs.org/jsonc-parser","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Mon, 24 Jun 2024 21:12:47 GMT"},"options":{"compress":true}}}
