@@ -5386,3 +5386,9 @@
 5251 warn deprecated read-package-json@7.0.1: This package is no longer supported. Please use @npmcli/package-json instead.
 5252 warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
 5253 warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+5254 verbose cwd /home/project
+5255 verbose os Linux 5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+5256 verbose node v20.19.1
+5257 verbose npm  v10.8.2
+5258 verbose exit 0
+5259 info ok
