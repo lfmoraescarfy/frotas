@@ -42,7 +42,12 @@ export function flatpickrFactory() {
     EnderecoComponent,
     NumberOnlyDirective,
     DecimalDirective,
-    UppercaseDirective
+    UppercaseDirective,
+    TelefonePipe,
+    CpfPipe,
+    CnpjPipe,
+    DataHoraPipe,
+    PerfilPipe
   ],
   imports: [
     CommonModule,
@@ -66,7 +71,12 @@ export function flatpickrFactory() {
     EnderecoComponent,
     NumberOnlyDirective,
     DecimalDirective,
-    UppercaseDirective],
+    UppercaseDirective,
+    TelefonePipe,
+    CpfPipe,
+    CnpjPipe,
+    DataHoraPipe,
+    PerfilPipe],
     schemas: [CUSTOM_ELEMENTS_SCHEMA]
 })
 export class SharedModule {
