@@ -1,0 +1,2 @@
+
+9e5e15b13a5aa0b5bed282ff5098c8fa246f6f70	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/fastq","integrity":"sha512-8usarKlXo1WvyroOxZWMVb2mRXyNDko1S6cnB3vX/J2A5AVt/vIpkEasuwPbl1mvf/av8+6afl/GtlrHm+T/nA==","time":1760843216407,"size":30940,"metadata":{"time":1760843216393,"url":"https://registry.npmjs.org/fastq","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Wed, 26 Feb 2025 09:17:12 GMT"},"options":{"compress":true}}}

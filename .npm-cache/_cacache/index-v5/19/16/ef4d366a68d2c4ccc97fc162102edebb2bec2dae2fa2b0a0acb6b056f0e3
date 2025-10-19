@@ -1,0 +1,2 @@
+
+b6d462988f69b9615568cd50f8919858101e4584	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/ini","integrity":"sha512-0McW9u0laoTePqMLzUZgsktwl9IgxXjBaI5ZMwsSFmbcGFfH40moplS8LDzmvZTn4Y9QFxhCy02ye9A5fiGuPw==","time":1760843178887,"size":54653,"metadata":{"time":1760843178881,"url":"https://registry.npmjs.org/ini","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Wed, 14 May 2025 20:03:41 GMT"},"options":{"compress":true}}}

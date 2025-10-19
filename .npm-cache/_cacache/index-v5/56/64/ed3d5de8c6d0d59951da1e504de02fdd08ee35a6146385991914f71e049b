@@ -1,0 +1,2 @@
+
+9d3e1bf08c60fd018855bb03193a9cb4304bbe41	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/picomatch","integrity":"sha512-PRRjIPDF6g8DHTZNCyDmYG4fgmrb47LIsENk60ADGOPBs1f4HBNTAiJylyOEge5t+o/vRD3G1tlacZuLjEzAJw==","time":1760843175291,"size":118818,"metadata":{"time":1760843175158,"url":"https://registry.npmjs.org/picomatch","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Tue, 15 Jul 2025 19:39:28 GMT"},"options":{"compress":true}}}

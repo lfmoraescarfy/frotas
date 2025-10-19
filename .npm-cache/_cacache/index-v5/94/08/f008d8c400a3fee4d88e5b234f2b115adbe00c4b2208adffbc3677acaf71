@@ -1,0 +1,2 @@
+
+93477f57ad9b799de23dc21aae6f7415ac1ccafd	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/domutils","integrity":"sha512-otGJMZ3YBjdexTaq2wsgYy9k2+p0IbjzPvhuXZvZEUfvvrsUMkSn0O6NIFKEb2ni3Iat+1ZRXZksv1ZL8NzPpw==","time":1760843213822,"size":51692,"metadata":{"time":1760843213763,"url":"https://registry.npmjs.org/domutils","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/vnd.npm.install-v1+json","last-modified":"Mon, 06 Jan 2025 20:05:29 GMT"},"options":{"compress":true}}}

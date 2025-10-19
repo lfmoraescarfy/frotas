@@ -1,0 +1,2 @@
+
+cfda0b09a787760d539e612f6d7ad28b687c6a60	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/minizlib","integrity":"sha512-Zz1ahLglf7MmbyT+hwXggwZ+bRAwbw+04Ladp7qU1lCia2bs8BSIj+4fKReK7K5jf9m4DDRiy3VnEZEGLtEbwQ==","time":1760843230775,"size":62862,"metadata":{"time":1760843230764,"url":"https://registry.npmjs.org/minizlib","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","content-type":"application/json","last-modified":"Sun, 21 Sep 2025 21:27:21 GMT"},"options":{"compress":true}}}
