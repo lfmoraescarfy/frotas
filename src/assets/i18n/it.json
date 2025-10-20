@@ -233,7 +233,6 @@
     "CHARTS": {
       "TEXT": "Grafici",
       "LIST": {
-        "APEXCHARTS": "Apexchart",
         "LINE": "Linea",
         "AREA": "La zona",
         "COLUMN": "Colonna",

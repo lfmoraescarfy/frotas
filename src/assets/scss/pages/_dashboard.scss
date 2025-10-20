@@ -193,11 +193,3 @@
     display: inline-block;
     vertical-align: middle;
 }
-
-#portfolio_donut_charts {
-    .apexcharts-pie {
-        text {
-            fill: var(--#{$prefix}body-color);
-        }
-    }
-}

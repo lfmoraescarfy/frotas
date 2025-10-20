@@ -229,7 +229,6 @@
       "CHARTS": {
         "TEXT": "Charts",
         "LIST": {
-          "APEXCHARTS": "Apexcharts",
           "LINE": "Line",
           "AREA": "Area",
           "COLUMN": "Column",

@@ -4,7 +4,6 @@ import { FormsModule } from '@angular/forms';
 import { NgbToastModule } from '@ng-bootstrap/ng-bootstrap';
 import { FlatpickrModule } from 'angularx-flatpickr';
 import { CountUpModule } from 'ngx-countup';
-import { NgApexchartsModule } from 'ng-apexcharts';
 import { LeafletModule } from '@asymmetrik/ngx-leaflet';
 import { NgbDropdownModule } from '@ng-bootstrap/ng-bootstrap';
 import { SimplebarAngularModule } from 'simplebar-angular';
@@ -24,7 +23,6 @@ import { SharedModule } from "../shared/shared.module";
     NgbToastModule,
     FlatpickrModule.forRoot(),
     CountUpModule,
-    NgApexchartsModule,
     LeafletModule,
     NgbDropdownModule,
     SimplebarAngularModule,

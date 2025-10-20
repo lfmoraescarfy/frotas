@@ -233,7 +233,6 @@
     "CHARTS": {
       "TEXT": "Graphiques",
       "LIST": {
-        "APEXCHARTS": "Apexchart",
         "LINE": "Ligne",
         "AREA": "Région",
         "COLUMN": "Colonne",

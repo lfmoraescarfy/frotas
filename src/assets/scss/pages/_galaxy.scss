@@ -77,20 +77,6 @@ body {
     }
 }
 
-.apex-charts {
-    .apexcharts-pie-series {
-        path {
-            stroke: var(--#{$prefix}secondary-bg);
-        }
-    }
-}
-
-.apexcharts-tooltip,
-.swal2-popup {
-    background-color: var(--#{$prefix}secondary-bg) !important;
-}
-
-
 .card-bg-fill,
 .navbar-landing.is-sticky,
 #preloader,
