@@ -6,6 +6,7 @@
 /.angular
 /.angular/cache/17.0.5
 /.angular/cache/17.3.14
+/.npm-cache
 node_modules
 .vscode/launch.json
 /dist/carfy-mf
